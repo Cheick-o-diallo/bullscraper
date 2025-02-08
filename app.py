@@ -54,7 +54,11 @@ elif page == "Dashboard":
     st.write("### Visualisation des données")
     # Charger le fichier CSV
     if selected_file:
-        #df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
+        # Convertir les prix en numérique 
+        df['prix'] = pd.to_numeric(df['prix'], errors='coerce')
+        # Supprimer les valeurs NaN dans la colonne prix
+        df = df.dropna(subset=['prix'])
+        
         plt.figure(figsize=(10, 5))
         sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
         plt.xlabel("Prix (CFA)")
