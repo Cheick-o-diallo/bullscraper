@@ -42,30 +42,39 @@ elif page == "Télécharger":
     load_(pd.read_csv('data/Other_animals_data.csv'), 'Ohter_animals data', '4')
     
 elif page == "Dashboard":
-    import matplotlib.pyplot as plt
-    import seaborn as sns
     st.title("Visualisation des données")
     selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(DATA_FILE))
-    df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
-
-    st.write("### Aperçu des données")
-    st.dataframe(df.head())
-
-    st.write("### Visualisation des données")
-    # Charger le fichier CSV
     if selected_file:
-        # Convertir les prix en numérique 
-        df['prix'] = pd.to_numeric(df['prix'], errors='coerce')
-        # Supprimer les valeurs NaN dans la colonne prix
-        df = df.dropna(subset=['prix'])
+        file_path = os.path.join(DATA_FILE, selected_file)
         
-        plt.figure(figsize=(10, 5))
-        sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
-        plt.xlabel("Prix (CFA)")
-        plt.ylabel("Nombre d'annonces")
-        plt.title("Distribution des prix des chiens")
-        plt.grid(True)
-        plt.show()
+        try:
+            df = pd.read_csv(file_path)
+
+            st.write("### Aperçu des données")
+            st.dataframe(df.head())
+
+            # Vérifier si la colonne 'prix' existe
+            if 'prix' in df.columns:
+                # Convertir en numérique
+                df['prix'] = pd.to_numeric(df['prix'], errors='coerce')
+                df = df.dropna(subset=['prix'])
+
+                st.write("### Distribution des prix")
+                fig, ax = plt.subplots(figsize=(10, 5))
+                sns.histplot(df['prix'], bins=30, kde=True, color='skyblue', ax=ax)
+                ax.set_xlabel("Prix (CFA)")
+                ax.set_ylabel("Nombre d'annonces")
+                ax.set_title("Distribution des prix des chiens")
+                ax.grid(True)
+                
+                # Affichage dans Streamlit
+                st.pyplot(fig)
+            
+            else:
+                st.warning("Le dataset sélectionné ne contient pas de colonne 'prix'.")
+        
+        except Exception as e:
+            st.error(f"Erreur lors du chargement du fichier : {e}")
 
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
