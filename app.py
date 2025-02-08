@@ -41,7 +41,7 @@ elif page == "Télécharger":
     load_(pd.read_csv('data/dogs_data.csv'), 'dogs data', '1')
     load_(pd.read_csv('data/sheets_data.csv'), 'sheets data', '2')
     load_(pd.read_csv('data/Rabbit&Chicken_data.csv'), 'Rabbit&Chicken data', '3')
-    load_(pd.read_csv('data/Ohter_animals_data.csv'), 'Ohter_animals data', '4')
+    load_(pd.read_csv('data/Other_animals_data.csv'), 'Ohter_animals data', '4')
     
 elif page == "Dashboard":
     st.title("Visualisation des données")
