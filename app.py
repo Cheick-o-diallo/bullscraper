@@ -51,10 +51,10 @@ elif page == "Dashboard":
 
         st.write("### Visualisation des données")
         # Charger le fichier CSV
-        file_path = "data/" 
+        DATA_FILE = "data/" 
         selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(file_path))
         if selected_file:
-            df = pd.read_csv(os.path.join(file_path, selected_file))
+            df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
             plt.figure(figsize=(10, 5))
             sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
             plt.xlabel("Prix (CFA)")
