@@ -1,5 +1,7 @@
 import streamlit as st
 import scraper
+import matplotlib.pyplot as plt
+import seaborn as sns
 import evaluation 
 import pandas as pd
 import os
