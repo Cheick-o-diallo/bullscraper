@@ -66,7 +66,7 @@ elif page == "Dashboard":
                 sns.histplot(df['prix'], bins=30, kde=True, color='skyblue', ax=ax)
                 ax.set_xlabel("Prix (CFA)")
                 ax.set_ylabel("Nombre d'annonces")
-                ax.set_title("Distribution des prix des chiens")
+                ax.set_title("Distribution des prix")
                 ax.grid(True)
                 
                 # Affichage dans Streamlit
