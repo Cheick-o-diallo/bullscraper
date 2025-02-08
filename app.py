@@ -13,7 +13,7 @@ st.sidebar.title("Navigation")
 page = st.sidebar.radio("Aller à :", ["Scraper", "Télécharger", "Dashboard", "Évaluation"])
 
 # Charger les données
-DATA_FILE = "Beautifulsoup_scrapped_data/"
+DATA_FILE = "data/"
 
 if page == "Scraper":
     st.title("Scraping des données")
