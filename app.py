@@ -1,7 +1,5 @@
 import streamlit as st
 import scraper
-#import data_cleaning 
-#import dashboard
 import evaluation 
 import pandas as pd
 import os
