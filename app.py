@@ -20,9 +20,15 @@ if page == "Scraper":
     url = st.text_input("Entrer l'URL de départ")
     num_pages = st.number_input("Nombre de pages à scraper", min_value=1, value=5)
     if st.button("Lancer le scraping"):
-        output_file = os.path.join(DATA_FILE, "new_scraped_data.csv")
-        scraper.scrape_data(url, num_pages, output_file)
-        st.success("Scraping terminé ! Données enregistrées.")
+        if not url :
+            st.error("Veuiller entrer une URL valide")
+        else:
+            output_file = os.path.join(DATA_FILE, "new_scraped_data.csv")
+            try:
+                scraper.scrape_data(url, num_pages, output_file)
+                st.success("Scraping terminé ! Données enregistrées.")
+            except Exception as e:
+                st.error(f"Erreur lors du scraping : {e}")
 
 elif page == "Télécharger":
     st.title("Téléchargement des données")
@@ -42,7 +48,7 @@ elif page == "Télécharger":
     load_(pd.read_csv('data/sheets_data.csv'), 'sheets data', '2')
     load_(pd.read_csv('data/Rabbit&Chicken_data.csv'), 'Rabbit&Chicken data', '3')
     load_(pd.read_csv('data/Other_animals_data.csv'), 'Ohter_animals data', '4')
-    
+
 elif page == "Dashboard":
     st.title("Visualisation des données")
     selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(DATA_FILE))
@@ -66,7 +72,7 @@ elif page == "Dashboard":
                 sns.histplot(df['prix'], bins=30, kde=True, color='skyblue', ax=ax)
                 ax.set_xlabel("Prix (CFA)")
                 ax.set_ylabel("Nombre d'annonces")
-                ax.set_title("Distribution des prix")
+                ax.set_title("Distribution des prix des chiens")
                 ax.grid(True)
                 
                 # Affichage dans Streamlit
@@ -75,8 +81,8 @@ elif page == "Dashboard":
             else:
                 st.warning("Le dataset sélectionné ne contient pas de colonne 'prix'.")
         
-        except Exception as e:
-            st.error(f"Erreur lors du chargement du fichier : {e}")
+        except:
+            st.error("Erreur lors du chargement du fichier :")
 
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
