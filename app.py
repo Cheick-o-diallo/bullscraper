@@ -45,23 +45,23 @@ elif page == "Dashboard":
     import matplotlib.pyplot as plt
     import seaborn as sns
     st.title("Visualisation des données")
-    def show_dashboard(df):
-        st.write("### Aperçu des données")
-        st.dataframe(df.head())
 
-        st.write("### Visualisation des données")
-        # Charger le fichier CSV
-        DATA_FILE = "data/" 
-        selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(file_path))
-        if selected_file:
-            df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
-            plt.figure(figsize=(10, 5))
-            sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
-            plt.xlabel("Prix (CFA)")
-            plt.ylabel("Nombre d'annonces")
-            plt.title("Distribution des prix des chiens")
-            plt.grid(True)
-            plt.show()
+    st.write("### Aperçu des données")
+    st.dataframe(df.head())
+
+    st.write("### Visualisation des données")
+    # Charger le fichier CSV
+    DATA_FILE = "data/" 
+    selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(file_path))
+    if selected_file:
+        df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
+        plt.figure(figsize=(10, 5))
+        sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
+        plt.xlabel("Prix (CFA)")
+        plt.ylabel("Nombre d'annonces")
+        plt.title("Distribution des prix des chiens")
+        plt.grid(True)
+        plt.show()
 
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
