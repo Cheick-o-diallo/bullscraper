@@ -1,7 +1,7 @@
 import streamlit as st
 import scraper
-import data_cleaning 
-import dashboard
+#import data_cleaning 
+#import dashboard
 import evaluation 
 import pandas as pd
 import os
@@ -44,13 +44,26 @@ elif page == "Télécharger":
     load_(pd.read_csv('data/Other_animals_data.csv'), 'Ohter_animals data', '4')
     
 elif page == "Dashboard":
+    import matplotlib.pyplot as plt
+    import seaborn as sns
     st.title("Visualisation des données")
-    selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(DATA_FILE))
-    
-    if selected_file:
-        df = pd.read_csv(os.path.join(DATA_FILE, selected_file))
-        cleaned_df = data_cleaning.clean_data(df)
-        dashboard.show_dashboard(cleaned_df)
+    def show_dashboard(df):
+        st.write("### Aperçu des données")
+        st.dataframe(df.head())
+
+        st.write("### Visualisation des données")
+        # Charger le fichier CSV
+        file_path = "data/" 
+        selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(file_path))
+        if selected_file:
+            df = pd.read_csv(os.path.join(file_path, selected_file))
+            plt.figure(figsize=(10, 5))
+            sns.histplot(df['prix'], bins=30, kde=True, color='skyblue')
+            plt.xlabel("Prix (CFA)")
+            plt.ylabel("Nombre d'annonces")
+            plt.title("Distribution des prix des chiens")
+            plt.grid(True)
+            plt.show()
 
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
