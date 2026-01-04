@@ -1,0 +1,961 @@
+﻿web_scraper_order,web_scraper_start_url,pagination,marque,prix,adresse,kilometrage,proprietaire
+"1767578193-1","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda SH 2010","450 F CFA","Guédiawaye,
+				Dakar","160 km","Par Babacar Diallo"
+"1767578193-2","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda CBF 2007","1 500 000 F CFA","Parcelles Assainies,
+				Dakar","11000 km","Par AMADOU NDIAYE"
+"1767578193-3","https://dakar-auto.com/senegal/motos-and-scooters-3","","SYM 125S 2023","620 000 F CFA","Rufisque,
+				Dakar","1200 km","Par Lamine  Ndao"
+"1767578193-4","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha TMax 2023","4 300 000 F CFA","VDN,
+				Dakar","1 km","Par Rose  DIOMPY"
+"1767578193-5","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha X-Max 2025","800 000 F CFA","Sicap Baobab,
+				Dakar","250 km","Par Rose  DIOMPY"
+"1767578193-6","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda X-ADV 2021","810 000 F CFA","Cambérène,
+				Dakar","350 km","Par Rose  DIOMPY"
+"1767578193-7","https://dakar-auto.com/senegal/motos-and-scooters-3","","KTM jakarta 2025","220 000 F CFA","VDN,
+				Dakar","6000 km","Par Malick konte"
+"1767578193-8","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha Tricker 2025","950 000 F CFA","Sicap Sacré Coeur,
+				Dakar","1 km","Par Lune Mané"
+"1767578193-9","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha MT 2017","1 800 000 F CFA","Saint-Louis,
+				Saint-Louis","39000 km","Par Abdou Latif Sy"
+"1767578193-10","https://dakar-auto.com/senegal/motos-and-scooters-3","","Haouju Haouju 2024","580 000 F CFA","Médina,
+				Dakar","2777 km","Par Franck Dieudonné DJIKOLDINGAM"
+"1767578193-11","https://dakar-auto.com/senegal/motos-and-scooters-3","","Suzuki Address 2023","600 000 F CFA","Mermoz Sacré-Coeur,
+				Dakar","200 km","Par Nd Wn"
+"1767578193-12","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha Tracer 2017","2 150 000 F CFA","Ouest Foire,
+				Dakar","50 km","Par Birahim  Ndiaye"
+"1767578193-13","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda XL Transalp 1996","1 200 000 F CFA","Médina,
+				Dakar","63750 km","Par Arthur THOMAS"
+"1767578193-14","https://dakar-auto.com/senegal/motos-and-scooters-3","","Piaggio Liberty 2022","400 000 F CFA","Mbao,
+				Dakar","","Par Babacar  Gueye"
+"1767578193-15","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda XRV Africa Twin 2018","3 900 000 F CFA","Plateau,
+				Dakar","12000 km","Par HONDA AFRICA TWIN CRF1000"
+"1767578193-16","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda CB Hornet 2003","1 100 000 F CFA","Almadies,
+				Dakar","20000 km","Par Hamza Mb"
+"1767578193-17","https://dakar-auto.com/senegal/motos-and-scooters-3","","Honda SH 2018","1 350 000 F CFA","Point-E,
+				Dakar","32000 km","Par Mehdi  Rouita"
+"1767578193-18","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha Majesty 2006","300 000 F CFA","Sicap Liberté,
+				Dakar","50000 km","Par Mohamed Thiam"
+"1767578193-19","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha TMax 2020","3 900 000 F CFA","Ouakam,
+				Dakar","14000 km","Par Cheikh  Mbacké"
+"1767578193-20","https://dakar-auto.com/senegal/motos-and-scooters-3","","Yamaha X-Max 2020","1 200 000 F CFA","Yoff,
+				Dakar","10000 km","Par Mohamed SALL"
+"1767578197-21","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Honda CBF 2014","1 150 000 F CFA","Grand-Dakar,
+				Dakar","55000 km","Par Mohamed  Memed"
+"1767578197-22","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Piaggio Xevo 2012","490 000 F CFA","Parcelles Assainies,
+				Dakar","1 km","Par Djibril  Ba"
+"1767578197-23","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Aprilia Mojito 2018","300 000 F CFA","Grand-Dakar,
+				Dakar","150 km","Par Ibrahim  Sarr"
+"1767578197-24","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2019","4 900 000 F CFA","Sicap Liberté,
+				Dakar","20000 km","Par DS Bikers  Coffee"
+"1767578197-25","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2021","2 500 000 F CFA","Sicap Liberté,
+				Dakar","17000 km","Par DS Bikers  Coffee"
+"1767578197-26","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Ducati 999 2024","7 900 000 F CFA","Sicap Liberté,
+				Dakar","500 km","Par DS Bikers  Coffee"
+"1767578197-27","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW R 2023","4 900 000 F CFA","Sicap Liberté,
+				Dakar","7000 km","Par DS Bikers  Coffee"
+"1767578197-28","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2023","6 900 000 F CFA","Sicap Liberté,
+				Dakar","2000 km","Par DS Bikers  Coffee"
+"1767578197-29","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2022","5 500 000 F CFA","Sicap Liberté,
+				Dakar","17000 km","Par DS Bikers  Coffee"
+"1767578197-30","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW F 2020","3 500 000 F CFA","Sicap Liberté,
+				Dakar","4000 km","Par DS Bikers  Coffee"
+"1767578197-31","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Ducati Scrambler 2017","2 500 000 F CFA","Sicap Liberté,
+				Dakar","13000 km","Par DS Bikers  Coffee"
+"1767578197-32","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW F 2023","4 900 000 F CFA","Sicap Liberté,
+				Dakar","9000 km","Par DS Bikers  Coffee"
+"1767578197-33","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Honda NSS Forza 2023","3 900 000 F CFA","Sicap Liberté,
+				Dakar","14000 km","Par DS Bikers  Coffee"
+"1767578197-34","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW S 2023","5 900 000 F CFA","Sicap Liberté,
+				Dakar","3000 km","Par DS Bikers  Coffee"
+"1767578197-35","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2020","5 900 000 F CFA","Sicap Liberté,
+				Dakar","20000 km","Par DS Bikers  Coffee"
+"1767578197-36","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2020","5 500 000 F CFA","Sicap Liberté,
+				Dakar","17000 km","Par DS Bikers  Coffee"
+"1767578197-37","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW S 2023","5 900 000 F CFA","Sicap Liberté,
+				Dakar","500 km","Par DS Bikers  Coffee"
+"1767578197-38","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW GS 2021","2 500 000 F CFA","Sicap Liberté,
+				Dakar","17000 km","Par DS Bikers  Coffee"
+"1767578197-39","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","BMW S 2023","5 900 000 F CFA","Sicap Liberté,
+				Dakar","3000 km","Par DS Bikers  Coffee"
+"1767578197-40","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=2","Beverly  350i  2016","1 600 000 F CFA","Hann Bel-Air,
+				Dakar","52917 km","Par Abdallah Sarr"
+"1767578202-41","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Beverly  350i  2019","1 650 000 F CFA","Liberté 6,
+				Dakar","1 km","Par Al  Amine"
+"1767578202-42","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Honda SH 2019","750 000 F CFA","Rufisque,
+				Dakar","1 km","Par Diouf diouf"
+"1767578202-43","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Honda SH 2021","2 500 000 F CFA","Parcelles Assainies,
+				Dakar","16000 km","Par Mouhamed  Ndiouck"
+"1767578202-44","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Honda SH 2021","3 850 000 F CFA","Parcelles Assainies,
+				Dakar","1 km","Par Mouhamed  Ndiouck"
+"1767578202-45","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Yamaha X-Max 2022","2 500 000 F CFA","Parcelles Assainies,
+				Dakar","1 km","Par Mouhamed  Ndiouck"
+"1767578202-46","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Yamaha YBR 2021","1 600 000 F CFA","Liberté 6 extension,
+				Dakar","1 km","Par Dior Diagne"
+"1767578202-47","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","BMW R 2022","8 500 000 F CFA","Sicap Dieuppeul,
+				Dakar","1 km","Par DS Bikers  Coffee"
+"1767578202-48","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Honda SH 2008","450 000 F CFA","Malika,
+				Dakar","","Par Omar  Ba"
+"1767578202-49","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Yamaha MT-09-TRACER 2021","1 730 000 F CFA","Fann,
+				Dakar","1 km","Par Adam  Ahmed"
+"1767578202-50","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Yamaha MT 2020","2 680 000 F CFA","Fann,
+				Dakar","5000 km","Par Adam  Ahmed"
+"1767578202-51","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","KTM Duke 2022","2 850 000 F CFA","Fann,
+				Dakar","2000 km","Par Adam  Ahmed"
+"1767578202-52","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Kawasaki Brute Force 2018","2 290 000 F CFA","Ouakam,
+				Dakar","27000 km","Par idy Idy"
+"1767578202-53","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Suzuki RG 2000","350 000 F CFA","Grand-Dakar,
+				Dakar","1 km","Par Momo 96"
+"1767578202-54","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Piaggio Liberty 2017","220 000 F CFA","Sicap Dieuppeul,
+				Dakar","1 km","Par Elhadj Elhadj"
+"1767578202-55","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Kymco bw 2017","350 000 F CFA","Guédiawaye,
+				Dakar","1 km","Par Sarenzo Sarenzo"
+"1767578202-56","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Haouju Haouju 2019","250 000 F CFA","Fann,
+				Dakar","1 km","Par KONTE  SERVICES"
+"1767578202-57","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Bajaj CT125 2022","675 000 F CFA","Hlm,
+				Dakar","1 km","Par Fournisseurs de  Moto"
+"1767578202-58","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","BMW G 2018","5 750 000 F CFA","Plateau,
+				Dakar","18 km","Par Aly  souedan"
+"1767578202-59","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Yamaha CX300 2017","5 500 000 F CFA","Parcelles Assainies,
+				Dakar","1 km","Par Abdou  SY"
+"1767578202-60","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=7","Piaggio Bravo 2016","250 000 F CFA","Ouakam,
+				Dakar","1 km","Par Koffi jeanluc  Yao"
+"1767578207-61","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","BMW F 2019","2 700 000 F CFA","Hann Maristes,
+				Dakar","11101 km","Par NGATHIE FALL MOTO"
+"1767578207-62","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha GRIZZLY-550 2008","3 380 000 F CFA","Mbour,
+				Thiès","15000 km","Par Yva Ndour"
+"1767578207-63","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Kymco Dink 2007","375 000 F CFA","Pikine Nord,
+				Dakar","1 km","Par STAM COMMERCE ET SERVICES"
+"1767578207-64","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Kymco Dink 2022","475 000 F CFA","Pikine Nord,
+				Dakar","1 km","Par STAM COMMERCE ET SERVICES"
+"1767578207-65","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda XL Transalp 1995","1 400 000 F CFA","Grand-Yoff,
+				Dakar","77160 km","Par Sakho ."
+"1767578207-66","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha Tracer 2020","2 500 000 F CFA","Tivaouane Peulh,
+				Dakar","45000 km","Par Pinth  Consortium"
+"1767578207-67","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda CBR 2017","1 500 000 F CFA","VDN,
+				Dakar","1 km","Par Seydi  Works"
+"1767578207-68","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Piaggio NRG 2019","250 000 F CFA","Hann Bel-Air,
+				Dakar","1 km","Par Rene ."
+"1767578207-69","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda SH 2000","450 000 F CFA","Dieuppeul Derklé,
+				Dakar","47304 km","Par Pierre  Gueret"
+"1767578207-70","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda FES Pantheon 2006","300 000 F CFA","Médina,
+				Dakar","1 km","Par Manu  Santos"
+"1767578207-71","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","KTM jakarta 2022","400 000 F CFA","Dieuppeul Derklé,
+				Dakar","580 km","Par Andrade  FrÃ©dÃ©ric"
+"1767578207-72","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha T-Max 2021","NC","Hlm,
+				Dakar","","Par Black power  2 Roues"
+"1767578207-73","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda X-ADV 2022","NC","Hlm,
+				Dakar","","Par Black power  2 Roues"
+"1767578207-74","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda X-ADV 2020","3 500 000 F CFA","Plateau,
+				Dakar","19000 km","Par Issa  Charbel"
+"1767578207-75","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Honda SH 2010","600 000 F CFA","Plateau,
+				Dakar","1 km","Par Mehdi  Rouita"
+"1767578207-76","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha Iron 2016","2 750 000 F CFA","Hann Maristes,
+				Dakar","1 km","Par Babs Motos,  Scooters"
+"1767578207-77","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Piaggio Beverly 2020","1 400 000 F CFA","Liberté 6,
+				Dakar","1 km","Par Al  Amine"
+"1767578207-78","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha Majesty 2006","750 000 F CFA","Nord Foire,
+				Dakar","49000 km","Par Assane Diop"
+"1767578207-79","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Yamaha X-Max 2020","1 600 000 F CFA","Liberté 6,
+				Dakar","1 km","Par Al  Amine"
+"1767578207-80","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=9","Piaggio Vespa 2020","550 000 F CFA","Mbao,
+				Dakar","1 km","Par Amar ."
+"1767578211-81","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda SH 2016","850 000 F CFA","Mermoz Sacré-Coeur,
+				Dakar","","Par Junior ."
+"1767578211-82","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Yamaha FZ 2011","700 000 F CFA","Plateau,
+				Dakar","40000 km","Par Mehdi Tage eddine"
+"1767578211-83","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda SH 2012","350 000 F CFA","Mamelles,
+				Dakar","","Par Chika ."
+"1767578211-84","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Piaggio Liberty 2016","190 000 F CFA","Liberté 6,
+				Dakar","","Par Alioune  sy"
+"1767578211-85","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Malaguty XSM 2018","380 000 F CFA","Point-E,
+				Dakar","","Par Babacar  Dia"
+"1767578211-86","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Kymco kymco-like 2008","450 000 F CFA","Pikine Ouest,
+				Dakar","53761 km","Par Fadel Kebe"
+"1767578211-87","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Piaggio Liberty 2012","450 000 F CFA","Malika,
+				Dakar","","Par Cheikh  DienG"
+"1767578211-88","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda CBR 2006","1 600 000 F CFA","Dieuppeul Derklé,
+				Dakar","15000 km","Par Loic  Tchuenkam"
+"1767578211-89","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Dirt bike 145cc 2018","500 000 F CFA","Saly Portudal,
+				Thiès","","Par Alex  D"
+"1767578211-90","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Yamaha Niken 2021","5 000 000 F CFA","Almadies,
+				Dakar","3000 km","Par Bellet  Gael"
+"1767578211-91","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Yamaha X-City 2012","800 000 F CFA","Mbao,
+				Dakar","","Par Assane  Fall"
+"1767578211-92","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda SH 2008","680 000 F CFA","Diamaguene Sicap Mbao,
+				Dakar","65437 km","Par Bachir Ndiaye"
+"1767578211-93","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","CF Moto TERRALANDER 625 2010","3 500 000 F CFA","Rufisque,
+				Dakar","","Par sarr  falilou"
+"1767578211-94","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda AFS Wave 2010","380 000 F CFA","Sicap Liberté,
+				Dakar","","Par Cheikh  Tidjane"
+"1767578211-95","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Suzuki Address 2010","700 000 F CFA","Mermoz Sacré-Coeur,
+				Dakar","180 km","Par Amath boury Coundoul"
+"1767578211-96","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","BMW GS 2013","2 400 000 F CFA","Hann Maristes,
+				Dakar","60000 km","Par Babs Motos,  Scooters"
+"1767578211-97","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Piaggio Zip 2018","200 000 F CFA","Gueule-Tapée, Fass, Colobane,
+				Dakar","","Par Hajar  SAADOUNI"
+"1767578211-98","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda CB Hornet 2014","1 200 000 F CFA","Dalifort,
+				Dakar","","Par Prince Coumba Ndoffene  DIOUF"
+"1767578211-99","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Ducati Scrambler 2018","NC","Hlm,
+				Dakar","20000 km","Par Black power  2 Roues"
+"1767578211-100","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=11","Honda CBR 2018","2 000 000 F CFA","Mamelles,
+				Dakar","","Par B2ZO ."
+"1767578214-101","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Honda XRV Africa Twin 2021","NC","Hlm,
+				Dakar","","Par Black power  2 Roues"
+"1767578214-102","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Yamaha Majesty 2012","430 000 F CFA","Gibraltar,
+				Dakar","","Par Diayalma  Ameublement"
+"1767578214-103","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Piaggio X9 2014","650 000 F CFA","Almadies,
+				Dakar","","Par Cheikh  Tidiane"
+"1767578214-104","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Suzuki Address 2012","275 000 F CFA","Yoff,
+				Dakar","","Par Ismaila  Diakhate"
+"1767578214-105","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Honda CTX 2016","750 000 F CFA","Liberté 6,
+				Dakar","","Par Moustapha  balde"
+"1767578214-106","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Piaggio Liberty 2011","190 000 F CFA","Hlm,
+				Dakar","","Par Semou  Sene"
+"1767578214-107","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Peugeot Speedfight 2016","300 000 F CFA","Ngor,
+				Dakar","","Par Tellier  Iwan"
+"1767578214-108","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Honda XRV Africa Twin 2019","4 000 000 F CFA","Dieuppeul Derklé,
+				Dakar","","Par DS Bikers  Coffee"
+"1767578214-109","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","BMW GS 2014","2 700 000 F CFA","Hann Bel-Air,
+				Dakar","","Par Iba Khaliloullah Fall"
+"1767578214-110","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","BMW GS 2018","4 000 000 F CFA","Parcelles Assainies,
+				Dakar","","Par Fadal  Nimzatt"
+"1767578214-111","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Suzuki Burgman 2019","1 500 000 F CFA","VDN,
+				Dakar","","Par Momo ."
+"1767578214-112","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Piaggio Beverly 2016","550 000 F CFA","Grand-Yoff,
+				Dakar","","Par Mamadouba ."
+"1767578214-113","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Vespa S 2014","600 000 F CFA","Point-E,
+				Dakar","","Par Mustapha ...."
+"1767578214-114","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Piaggio Fly 2005","1 000 000 F CFA","Almadies,
+				Dakar","","Par Isabel  Sandoval"
+"1767578214-115","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Vespa ET4 2015","500 000 F CFA","Diamaguene Sicap Mbao,
+				Dakar","","Par Mouhamed Diop"
+"1767578214-116","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Piaggio Fly 2018","380 000 F CFA","Médina,
+				Dakar","","Par Scooter ...."
+"1767578214-117","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Honda CRF 2016","NC","Guédiawaye,
+				Dakar","","Par Seydina  issa fall"
+"1767578214-118","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","BMW GS 2020","6 000 000 F CFA","Dieuppeul Derklé,
+				Dakar","","Par DS Bikers  Coffee"
+"1767578214-119","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","BMW GS 2021","8 000 000 F CFA","Dieuppeul Derklé,
+				Dakar","","Par DS Bikers  Coffee"
+"1767578214-120","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=13","Suzuki SV 2020","750 000 F CFA","Mboro,
+				Thiès","","Par Ibrahima  badiane"
+"1767578218-121","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Honda SH 2016","600 000 F CFA","Yoff,
+				Dakar","","Par MD ALL  SERVICES"
+"1767578218-122","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Yamaha MT 2020","2 500 000 F CFA","Hlm,
+				Dakar","","Par Keur Rassoul  Business"
+"1767578218-123","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Suzuki Burgman 2002","380 000 F CFA","Pout,
+				Thiès","100000 km","Par Timoleon  Sarr"
+"1767578218-124","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Aprilia SR 2010","265 000 F CFA","Guédiawaye,
+				Dakar","","Par Seydina  issa fall"
+"1767578218-125","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","BMW GS 2018","3 300 000 F CFA","Ngor,
+				Dakar","23200 km","Par Bruno .."
+"1767578218-126","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Piaggio Bravo 2022","NC","Ouakam,
+				Dakar","","Par DE WO  FENG"
+"1767578218-127","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Kymco Like 2015","475 000 F CFA","Pikine Nord,
+				Dakar","6017 km","Par STAM COMMERCE ET SERVICES"
+"1767578218-128","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Kymco Agility-125 2021","450 000 F CFA","Pikine Nord,
+				Dakar","","Par STAM COMMERCE ET SERVICES"
+"1767578218-129","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Kymco People 2016","475 000 F CFA","Pikine Nord,
+				Dakar","","Par STAM COMMERCE ET SERVICES"
+"1767578218-130","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Yamaha Majesty 2016","480 000 F CFA","Pikine Nord,
+				Dakar","","Par STAM COMMERCE ET SERVICES"
+"1767578218-131","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","BMW GS 2020","3 000 000 F CFA","Mbao,
+				Dakar","58 km","Par EFASTRADE ."
+"1767578218-132","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","BMW R 2004","3 000 000 F CFA","Sicap Sacré Coeur,
+				Dakar","","Par Papa Abdoulaye  Fall"
+"1767578218-133","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Aprilia Runner 2016","375 000 F CFA","Pikine Ouest,
+				Dakar","120 km","Par KOUWAGNE BUSINESS ENTREPRISE"
+"1767578218-134","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Piaggio Beverly 2016","695 000 F CFA","Pikine Ouest,
+				Dakar","","Par KOUWAGNE BUSINESS ENTREPRISE"
+"1767578218-135","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","BMW G 2020","NC","Point-E,
+				Dakar","","Par Black power  2 Roues"
+"1767578218-136","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","BMW G 2020","5 000 000 F CFA","Point-E,
+				Dakar","","Par Black power  2 Roues"
+"1767578218-137","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Yamaha TMax 2017","NC","Point-E,
+				Dakar","","Par Black power  2 Roues"
+"1767578218-138","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Honda XRV Africa Twin 2021","NC","Point-E,
+				Dakar","","Par Black power  2 Roues"
+"1767578218-139","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Kawasaki Versys 2019","NC","Point-E,
+				Dakar","","Par Black power  2 Roues"
+"1767578218-140","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=15","Aprilia  SR 2017","280 000 F CFA","Grand-Dakar,
+				Dakar","","Par Cheikh WIN"
+"1767578221-141","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Aprilia  Leonardo 0","220 000 F CFA","Grand-Dakar,
+				Dakar","","Par Diadie KANE"
+"1767578221-142","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  1000cm3 2010","140 000 F CFA","Grand-Dakar,
+				Dakar","50 km","Par El hadj BA"
+"1767578221-143","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Piaggio  MP3 0","1 250 000 F CFA","Grand-Dakar,
+				Dakar","52000 km","Par Ousmane SARRE"
+"1767578221-144","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Ducati  Hypermotard-796 2011","1 350 000 F CFA","Grand-Dakar,
+				Dakar","20387 km","Par Alou ALOU"
+"1767578221-145","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","KTM  450-exc 2006","900 000 F CFA","Grand-Dakar,
+				Dakar","","Par Antoine GOUZEE"
+"1767578221-146","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  X-city-250 2010","450 000 F CFA","Grand-Dakar,
+				Dakar","38000 km","Par Antoine GOUZEE"
+"1767578221-147","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","KTM  450-exc 2006","900 000 F CFA","Grand-Dakar,
+				Dakar","","Par Antoine GOUZEE"
+"1767578221-148","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Piaggio  NRG 0","350 000 F CFA","Grand-Dakar,
+				Dakar","200 km","Par Jov PLATIN"
+"1767578221-149","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Kawasaki  Z800 2013","3 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhamadou GUEYE"
+"1767578221-150","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  FZ-750-GENESIS 1990","900 000 F CFA","Grand-Dakar,
+				Dakar","78350 km","Par Paolino LUCA"
+"1767578221-151","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Piaggio  Lyberty-125-cc 2007","450 000 F CFA","Grand-Dakar,
+				Dakar","57700 km","Par Bamba DEME"
+"1767578221-152","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Suzuki  GSF-650-Bandit 2008","1 500 000 F CFA","Grand-Dakar,
+				Dakar","20000 km","Par Talibé FOFANA"
+"1767578221-153","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Honda  750-INTEGRA-HONDA-2015 2015","1 200 000 F CFA","Grand-Dakar,
+				Dakar","14600 km","Par Alain ROGGEMAN"
+"1767578221-154","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Daelim  125cc 2014","300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Ame BA"
+"1767578221-155","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  FZ750-GENESIS 1990","900 000 F CFA","Grand-Dakar,
+				Dakar","76510 km","Par Ruzzarin DAMIANO"
+"1767578221-156","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Suzuki  Bourgoumane 2018","975 000 F CFA","Grand-Dakar,
+				Dakar","950 km","Par Cheikh WADE"
+"1767578221-157","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Piaggio  NRG 2016","175 000 F CFA","Grand-Dakar,
+				Dakar","","Par Ghali SEFRIOUI"
+"1767578221-158","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  Majesty-400 2015","500 000 F CFA","Grand-Dakar,
+				Dakar","180 km","Par Médoune  NIANG"
+"1767578221-159","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Yamaha  MT-09-TRACER 2017","1 800 000 F CFA","Grand-Dakar,
+				Dakar","5000 km","Par Brahim Bâ"
+"1767578221-160","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=17","Piaggio  Liberty 2017","270 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhamed Mansour CISSé"
+"1767578225-161","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Suzuki  gsxr 2011","1 600 000 F CFA","Grand-Dakar,
+				Dakar","40000 km","Par Hasan D"
+"1767578225-162","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Ducati  848-Evo 2011","1 000 000 F CFA","Grand-Dakar,
+				Dakar","18000 km","Par Hasan D"
+"1767578225-163","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Yamaha  Ybr-125 0","NC","Grand-Dakar,
+				Dakar","","Par Soufiane OMS"
+"1767578225-164","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Kawasaki  ER6-N 2017","1 900 000 F CFA","Grand-Dakar,
+				Dakar","","Par Abdou LO"
+"1767578225-165","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Piaggio  Liberty 2010","380 000 F CFA","Grand-Dakar,
+				Dakar","20000 km","Par Abdou LO"
+"1767578225-166","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Yamaha  T-Max 2010","2 000 000 F CFA","Grand-Dakar,
+				Dakar","23000 km","Par Abdou LO"
+"1767578225-167","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Honda  INTEGRA-700 2016","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Abdou LO"
+"1767578225-168","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Yamaha  T-Max 2014","2 300 000 F CFA","Grand-Dakar,
+				Dakar","13000 km","Par Abdou LO"
+"1767578225-169","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Honda  INTEGRA-700 2015","1 600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Abdou LO"
+"1767578225-170","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Gilera  Runner 0","240 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mamadou SECK"
+"1767578225-171","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","KTM  640 2007","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pascale DEGRAVE"
+"1767578225-172","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","KTM  690-SMCR 2013","1 900 000 F CFA","Grand-Dakar,
+				Dakar","14000 km","Par Fred ROBBA"
+"1767578225-173","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Yamaha  RAPTOR-700 2014","3 800 000 F CFA","Grand-Dakar,
+				Dakar","","Par Maurice THOME"
+"1767578225-174","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Gilera  Runner 0","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Youness  NDIAYE"
+"1767578225-175","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Kawasaki  Z750r 2014","1 300 000 F CFA","Grand-Dakar,
+				Dakar","7000 km","Par Youness  NDIAYE"
+"1767578225-176","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Piaggio  Beverly 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Youness  NDIAYE"
+"1767578225-177","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Honda  600-hornet 2005","550 000 F CFA","Grand-Dakar,
+				Dakar","","Par Youness  NDIAYE"
+"1767578225-178","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Kawasaki  Z750 2011","900 000 F CFA","Grand-Dakar,
+				Dakar","","Par Youness  NDIAYE"
+"1767578225-179","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Yamaha  Aerox-Nitro 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Youness  NDIAYE"
+"1767578225-180","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=19","Kawasaki  Z750r 2014","1 300 000 F CFA","Grand-Dakar,
+				Dakar","5000 km","Par Youness  NDIAYE"
+"1767578228-181","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Yamaha  X-Max 0","1 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Père PèRE"
+"1767578228-182","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Honda  SH 0","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Père PèRE"
+"1767578228-183","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Honda  SHI 2016","1 300 000 F CFA","Grand-Dakar,
+				Dakar","5000 km","Par Momo HAWILI"
+"1767578228-184","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Honda  FORZA 0","850 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mbaye MBAYE"
+"1767578228-185","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Piaggio  X8 0","295 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mbaye MBAYE"
+"1767578228-186","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Honda  FORZA 0","495 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mbaye MBAYE"
+"1767578228-187","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Honda  FORZA 0","595 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mbaye MBAYE"
+"1767578228-188","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Yamaha  Bazooka-400 0","1 200 000 F CFA","Grand-Dakar,
+				Dakar","","Par Alco GUEYE"
+"1767578228-189","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Piaggio  Beverly 0","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhamadou DRAME"
+"1767578228-190","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Bmw  BMW-F650 0","950 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean paul DIèNE"
+"1767578228-191","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Kymco  Xciting-250 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Ridjaal DIéMé"
+"1767578228-192","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Kymco  Downtown 2015","950 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhamadou COULIBALY"
+"1767578228-193","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Bmw  BMW-F650 2010","2 000 000 F CFA","Grand-Dakar,
+				Dakar","34000 km","Par Grant JUKAWICS"
+"1767578228-194","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Yamaha  Raptor-750 2013","4 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Aly NDIAYE"
+"1767578228-195","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Piaggio  X9 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Lamine DANFAKHA"
+"1767578228-196","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Ducati  Multistrada-1000-DS 2007","1 100 000 F CFA","Grand-Dakar,
+				Dakar","6000 km","Par ANDRE BIKONDI"
+"1767578228-197","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Bmw  BMW 2015","2 000 000 F CFA","Grand-Dakar,
+				Dakar","19000 km","Par Max GAYE"
+"1767578228-198","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Piaggio  MP3 2014","500 000 F CFA","Grand-Dakar,
+				Dakar","33000 km","Par Grand GUEYE"
+"1767578228-199","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","MBK  Rocket 0","150 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578228-200","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=21","Piaggio  Typoon 0","165 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-201","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  Majesti 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-202","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Piaggio  NRG 0","135 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-203","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Suzuki  A45A 2017","175 000 F CFA","Grand-Dakar,
+				Dakar","500 km","Par Daive D. D."
+"1767578232-204","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Piaggio  X9 0","290 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-205","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Peugeot  FC 0","150 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-206","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Aprilia  Customized 0","165 000 F CFA","Grand-Dakar,
+				Dakar","","Par Daive D. D."
+"1767578232-207","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Aprilia  650cc 0","125 000 F CFA","Grand-Dakar,
+				Dakar","23600 km","Par Daive D. D."
+"1767578232-208","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Suzuki  AX100 2015","500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Léonard HUSSENOT"
+"1767578232-209","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  R1 0","1 000 000 F CFA","Grand-Dakar,
+				Dakar","55000 km","Par Mouhame FAYE"
+"1767578232-210","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Triumph  Daytona-675 2006","1 550 000 F CFA","Grand-Dakar,
+				Dakar","21708 km","Par Martin M"
+"1767578232-211","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Honda  Transalp 1996","1 300 000 F CFA","Grand-Dakar,
+				Dakar","70000 km","Par Doudou gaye DIAGNE"
+"1767578232-212","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Kawasaki  Z1000 2013","1 600 000 F CFA","Grand-Dakar,
+				Dakar","75000 km","Par Youssou COULIBALY"
+"1767578232-213","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  R1 0","1 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhame FAYE"
+"1767578232-214","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Bmw  F700GS 2013","2 100 000 F CFA","Grand-Dakar,
+				Dakar","20000 km","Par Martin M"
+"1767578232-215","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Triumph  Daytona-675 2012","2 500 000 F CFA","Grand-Dakar,
+				Dakar","15000 km","Par Paul GRANIER"
+"1767578232-216","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  Panthéon 0","900 000 F CFA","Grand-Dakar,
+				Dakar","","Par Laye GUEYE"
+"1767578232-217","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  X-Max 0","NC","Grand-Dakar,
+				Dakar","","Par Louis GRACA"
+"1767578232-218","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Piaggio  Liberty 2004","240 000 F CFA","Grand-Dakar,
+				Dakar","11000 km","Par Sami SALEM"
+"1767578232-219","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Honda  SH-125-ou-150 2007","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pape BIRAHIM"
+"1767578232-220","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=23","Yamaha  Majesty-400 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pape BIRAHIM"
+"1767578235-221","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  X-city-250 2011","585 000 F CFA","Grand-Dakar,
+				Dakar","10000 km","Par Moussa NDIAYE"
+"1767578235-222","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Peugeot  peu 2000","110 000 F CFA","Grand-Dakar,
+				Dakar","150 km","Par Babacar FALL"
+"1767578235-223","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Piaggio  Liberty 2007","280 000 F CFA","Grand-Dakar,
+				Dakar","140 km","Par Pipeu ZZ JOOBS"
+"1767578235-224","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  Ybr-125 2009","850 000 F CFA","Grand-Dakar,
+				Dakar","16000 km","Par Moba BA"
+"1767578235-225","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","KTM  jakarta 0","200 000 F CFA","Grand-Dakar,
+				Dakar","","Par Amdy TAGUE"
+"1767578235-226","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Honda  HONDA-CBR-1OOO 2013","2 000 000 F CFA","Grand-Dakar,
+				Dakar","2500 km","Par Karlos DOSANTOS"
+"1767578235-227","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Bmw  K75 1989","900 000 F CFA","Grand-Dakar,
+				Dakar","100000 km","Par Patrick DRIEGHE"
+"1767578235-228","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Triumph  Stree Triple 0","1 700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mister JOB"
+"1767578235-229","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Suzuki  650-dr 1999","1 800 000 F CFA","Grand-Dakar,
+				Dakar","10000 km","Par Alain REY"
+"1767578235-230","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  YBR 2009","900 000 F CFA","Grand-Dakar,
+				Dakar","16000 km","Par Moisa BA"
+"1767578235-231","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Piaggio  Nrj 0","NC","Grand-Dakar,
+				Dakar","4000 km","Par Momo HAWILI"
+"1767578235-232","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Piaggio  MP3 2013","NC","Grand-Dakar,
+				Dakar","7900 km","Par Pape Assane BADJI"
+"1767578235-233","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  1000cm3 0","NC","Grand-Dakar,
+				Dakar","Manuelle","Par Pape Assane BADJI"
+"1767578235-234","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Suzuki  450-LTR 0","NC","Grand-Dakar,
+				Dakar","","Par Bossou TRONGAN"
+"1767578235-235","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Piaggio  X9 2007","300 000 F CFA","Grand-Dakar,
+				Dakar","90000 km","Par Pape Assane BADJI"
+"1767578235-236","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  YZF-r6-600 2008","500 000 F CFA","Grand-Dakar,
+				Dakar","37300 km","Par Baronchelli BRUNO@LIVE.FR"
+"1767578235-237","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Honda  Transalp 2007","1 970 000 F CFA","Grand-Dakar,
+				Dakar","120000 km","Par Pape Assane BADJI"
+"1767578235-238","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Triumph  1050 0","1 500 000 F CFA","Grand-Dakar,
+				Dakar","11000 km","Par Reddy JC"
+"1767578235-239","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Kymco  People-S 0","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par Reddy JC"
+"1767578235-240","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=25","Yamaha  150 0","800 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mactar SARR"
+"1767578239-241","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Kawasaki  KLX-450-R 2011","2 200 000 F CFA","Grand-Dakar,
+				Dakar","","Par Rodrigue  JACQUEMAIN"
+"1767578239-242","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Piaggio 1050 Skipper 0","240 000 F CFA","Grand-Dakar,
+				Dakar","","Par Djiby BA"
+"1767578239-243","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Piaggio  MP3 2013","NC","Grand-Dakar,
+				Dakar","57856 km","Par Mass LO"
+"1767578239-244","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Piaggio  MP3 2013","NC","Grand-Dakar,
+				Dakar","57678 km","Par Mass LO"
+"1767578239-245","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Yamaha  XT600 0","1 600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Thierno ALIOU SOW"
+"1767578239-246","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Bmw  GS-1200 2010","3 100 000 F CFA","Grand-Dakar,
+				Dakar","60000 km","Par Bozdemir MEHMET"
+"1767578239-247","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Triumph  Tiger-1050 2011","1 600 000 F CFA","Grand-Dakar,
+				Dakar","31000 km","Par Bozdemir MEHMET"
+"1767578239-248","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Triumph  Tiger-1050 2011","1 600 000 F CFA","Grand-Dakar,
+				Dakar","31000 km","Par Bozdemir MEHMET"
+"1767578239-249","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Aprilia  Leonardo 0","650 000 F CFA","Grand-Dakar,
+				Dakar","36000 km","Par SECK ABDOU"
+"1767578239-250","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Honda  FORESIGNT 0","650 000 F CFA","Grand-Dakar,
+				Dakar","29000 km","Par SECK ABDOU"
+"1767578239-251","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Yamaha  1000cm3 2012","2 800 000 F CFA","Grand-Dakar,
+				Dakar","","Par DIDIER BONNEL"
+"1767578239-252","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Yamaha  Quad-grizzly-300 2012","2 800 000 F CFA","Grand-Dakar,
+				Dakar","","Par DIDIER BONNEL"
+"1767578239-253","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Aprilia  Scarabeo 0","NC","Grand-Dakar,
+				Dakar","","Par Cheikh  FATY"
+"1767578239-254","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Aprilia  Scarabeo-250 2010","NC","Grand-Dakar,
+				Dakar","16000 km","Par Cheikh  FATY"
+"1767578239-255","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","KTM  jakarta 2014","400 000 F CFA","Grand-Dakar,
+				Dakar","150 km","Par Joseph adrien  SARR"
+"1767578239-256","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Honda  sh-150 0","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par SIDY CISSE"
+"1767578239-257","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Gilera  Runner 0","NC","Grand-Dakar,
+				Dakar","","Par Billal BILALO"
+"1767578239-258","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Piaggio  X9 0","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par Seimex SEIMEX"
+"1767578239-259","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Suzuki  ROUTIERE 2013","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Lamine DRAME"
+"1767578239-260","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=27","Bmw  BMW-F650 2014","150 000 F CFA","Grand-Dakar,
+				Dakar","2000 km","Par Papasalacor SALACOR"
+"1767578242-261","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  r6 2012","2 350 000 F CFA","Grand-Dakar,
+				Dakar","3500 km","Par Badiane FAMA"
+"1767578242-262","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Aprilia  Scarabeo 0","NC","Grand-Dakar,
+				Dakar","","Par Amadou DIOP"
+"1767578242-263","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Piaggio  ET 2005","150 000 F CFA","Grand-Dakar,
+				Dakar","","Par Djibril DIAGNE"
+"1767578242-264","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  T-Max 2006","950 000 F CFA","Grand-Dakar,
+				Dakar","","Par Julien MOSSILET"
+"1767578242-265","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Piaggio  Liberty 0","299 900 F CFA","Grand-Dakar,
+				Dakar","","Par Sileye GAIDAGA"
+"1767578242-266","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Piaggio  Liberty 0","299 900 F CFA","Grand-Dakar,
+				Dakar","","Par Sileye GAIDAGA"
+"1767578242-267","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Piaggio  Liberty 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Sileye GAIDAGA"
+"1767578242-268","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  RAPTOR-350 2010","2 300 000 F CFA","Grand-Dakar,
+				Dakar","2700 km","Par Anthony FOUACE"
+"1767578242-269","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  RAPTOR-700 2013","1 850 000 F CFA","Grand-Dakar,
+				Dakar","4660 km","Par Christophe MONTOSSE"
+"1767578242-270","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Honda  SH-125-ou-150 2012","350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mor NDOYE"
+"1767578242-271","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Piaggio  Liberty 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Julien BAUDRAND"
+"1767578242-272","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Hyosung  hy150 0","300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mamadou MBAYE"
+"1767578242-273","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Honda  sh-150 2012","300 000 F CFA","Grand-Dakar,
+				Dakar","70000 km","Par Keuch DIOP"
+"1767578242-274","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","KTM  jakarta 0","NC","Grand-Dakar,
+				Dakar","","Par Mass DIOP"
+"1767578242-275","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Kawasaki  Z750 2008","1 600 000 F CFA","Grand-Dakar,
+				Dakar","35000 km","Par Alyoune BA"
+"1767578242-276","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Kawasaki  Z 750 2008","1 600 000 F CFA","Grand-Dakar,
+				Dakar","35000 km","Par Alyoune BA"
+"1767578242-277","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Kawasaki  Z750 2008","1 600 000 F CFA","Grand-Dakar,
+				Dakar","35000 km","Par Alyoune BA"
+"1767578242-278","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  XTE-600 2000","1 500 000 F CFA","Grand-Dakar,
+				Dakar","28850 km","Par Samuel HIAULT"
+"1767578242-279","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Kawasaki  Z750 2013","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Nazir NIANG"
+"1767578242-280","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=29","Yamaha  1000cm3 0","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Rassoul  SERVICES"
+"1767578246-281","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Honda  sh-150 0","NC","Grand-Dakar,
+				Dakar","","Par Mamadou FALL"
+"1767578246-282","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Piaggio  Beverly 0","NC","Grand-Dakar,
+				Dakar","","Par Mamadou FALL"
+"1767578246-283","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha 2018 QUAD-250-GRIZZLY 0","1 900 000 F CFA","Grand-Dakar,
+				Dakar","","Par GILLES CAVA"
+"1767578246-284","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Aprilia  Leonardo 0","350 000 F CFA","Grand-Dakar,
+				Dakar","","Par LOUM AWA"
+"1767578246-285","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  booster--hors-serie 0","750 000 F CFA","Grand-Dakar,
+				Dakar","","Par Concept GBKS PARCK AUTO"
+"1767578246-286","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  TTR-600 0","500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mr PAPE"
+"1767578246-287","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Piaggio  X8 0","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Libasse NDIAYE"
+"1767578246-288","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Piaggio  NRG 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mouhamed DAFF"
+"1767578246-289","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Suzuki  DR 2007","NC","Grand-Dakar,
+				Dakar","","Par Pedro PEDRO"
+"1767578246-290","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  4UN-TRX-850 1998","1 800 000 F CFA","Grand-Dakar,
+				Dakar","70000 km","Par Alle THIAM"
+"1767578246-291","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  majesty-250cm3 0","500 000 F CFA","Grand-Dakar,
+				Dakar","24000 km","Par Code NDIAYE"
+"1767578246-292","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Piaggio  X9 0","650 000 F CFA","Grand-Dakar,
+				Dakar","32000 km","Par Code NDIAYE"
+"1767578246-293","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Bmw  S1000 0","6 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Malang DIOKKOU"
+"1767578246-294","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Gilera  Runner 0","NC","Grand-Dakar,
+				Dakar","","Par Bob SIBY"
+"1767578246-295","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Bmw  BMW-F650 2010","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Hyace GOMIS"
+"1767578246-296","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Aprilia  Leonardo 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par LOUM KHADIM"
+"1767578246-297","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  RAPTOR-700 2006","1 200 000 F CFA","Grand-Dakar,
+				Dakar","4500 km","Par Marcel KZERHO"
+"1767578246-298","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Piaggio  MP3 2011","2 400 000 F CFA","Grand-Dakar,
+				Dakar","4000 km","Par Pascal DEBORDE"
+"1767578246-299","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Yamaha  majesty-250cm3 0","350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Yakou GUEYE"
+"1767578246-300","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=31","Aprilia  ATLANTIK 2005","800 000 F CFA","Grand-Dakar,
+				Dakar","12000 km","Par Mr CALCIO-AUTO"
+"1767578249-301","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Aprilia  Sportcity 0","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Bana BANA"
+"1767578249-302","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Aprilia  Sportcity 0","550 000 F CFA","Grand-Dakar,
+				Dakar","","Par Bana BANA"
+"1767578249-303","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Piaggio  Beverly 0","800 000 F CFA","Grand-Dakar,
+				Dakar","","Par Bana BANA"
+"1767578249-304","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","KTM  990 2008","2 300 000 F CFA","Grand-Dakar,
+				Dakar","60000 km","Par Amadou  SARR"
+"1767578249-305","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Aprilia  Scarabeo-250 2007","5 000 000 F CFA","Grand-Dakar,
+				Dakar","70000 km","Par Amadou  SARR"
+"1767578249-306","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Yamaha  X-Max 2011","600 000 F CFA","Grand-Dakar,
+				Dakar","50000 km","Par Amadou  SARR"
+"1767578249-307","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Honda  HONDA-JAZZ 1998","2 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pazsap N DOUR"
+"1767578249-308","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Honda  125-R 2004","1 200 000 F CFA","Grand-Dakar,
+				Dakar","1200 km","Par Pazsap N DOUR"
+"1767578249-309","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Piaggio  polaris 2011","3 600 000 F CFA","Grand-Dakar,
+				Dakar","3000 km","Par Pazsap N DOUR"
+"1767578249-310","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Gilera  Runner 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Moustafa FALL"
+"1767578249-311","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Piaggio  X9 2011","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Belneland MILANDOU"
+"1767578249-312","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Kawasaki  Z1000 2006","1 600 000 F CFA","Grand-Dakar,
+				Dakar","21000 km","Par Dia DIA"
+"1767578249-313","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Gilera  GP-800 2010","1 250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Elhadji DIENE"
+"1767578249-314","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Kawasaki  250 2006","NC","Grand-Dakar,
+				Dakar","","Par Moustapha mamadou 6C"
+"1767578249-315","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Bombardier  650DS 2009","1 350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Wim SCHELFHOUT"
+"1767578249-316","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Bombardier  650DS 2009","1 350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Wim SCHELFHOUT"
+"1767578249-317","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Honda  Africa Twin 1990","1 600 000 F CFA","Grand-Dakar,
+				Dakar","57000 km","Par Aliou NDIONE"
+"1767578249-318","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Honda  Africa Twin 1990","1 600 000 F CFA","Grand-Dakar,
+				Dakar","57000 km","Par Aliou NDIONE"
+"1767578249-319","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","Honda  Africa Twin 1990","1 600 000 F CFA","Grand-Dakar,
+				Dakar","57000 km","Par Aliou NDIONE"
+"1767578249-320","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=33","MBK  Stunt 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mohamed SAAD"
+"1767578252-321","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Yamaha  majesty-250cm3 2000","639 000 F CFA","Grand-Dakar,
+				Dakar","90000 km","Par Fabio GATTI"
+"1767578252-322","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Yamaha  majesty-250cm3 0","550 000 F CFA","Grand-Dakar,
+				Dakar","","Par Fabio GATTI"
+"1767578252-323","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Yamaha  Faser 0","3 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jay MONIE"
+"1767578252-324","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Ducati  848-Evo 0","3 500 000 F CFA","Grand-Dakar,
+				Dakar","9481 km","Par Jay MONIE"
+"1767578252-325","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Gilera  Runner 0","350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Moussa DIAGNE"
+"1767578252-326","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Honda  sh-150 0","NC","Grand-Dakar,
+				Dakar","","Par Babacar MANGANE"
+"1767578252-327","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Honda  sh-150 0","NC","Grand-Dakar,
+				Dakar","","Par Babacar MANGANE"
+"1767578252-328","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Yamaha  Majesti 0","450 000 F CFA","Grand-Dakar,
+				Dakar","49000 km","Par Joseph SY"
+"1767578252-329","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Yamaha  Majesti 0","380 000 F CFA","Grand-Dakar,
+				Dakar","","Par Joseph SY"
+"1767578252-330","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Triumph  Stree Triple 2011","1 600 000 F CFA","Grand-Dakar,
+				Dakar","12000 km","Par Joseph SY"
+"1767578252-331","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Triumph  Stree Triple 2011","1 600 000 F CFA","Grand-Dakar,
+				Dakar","13000 km","Par Joseph SY"
+"1767578252-332","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Triumph  Stree Triple 2011","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Joseph SY"
+"1767578252-333","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Kawasaki  ER6-N 2012","2 200 000 F CFA","Grand-Dakar,
+				Dakar","3000 km","Par Joseph SY"
+"1767578252-334","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Piaggio  ET 0","NC","Grand-Dakar,
+				Dakar","","Par Mamadou DIENE"
+"1767578252-335","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Kawasaki  Ninja 0","350 000 F CFA","Grand-Dakar,
+				Dakar","","Par Khadim D."
+"1767578252-336","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Honda  Dominator 2004","1 100 000 F CFA","Grand-Dakar,
+				Dakar","45000 km","Par JOACHIM DIATTA"
+"1767578252-337","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Honda  Dominator 2004","1 100 000 F CFA","Grand-Dakar,
+				Dakar","45000 km","Par JOACHIM DIATTA"
+"1767578252-338","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","Honda  Sh 300i 2012","1 200 000 F CFA","Grand-Dakar,
+				Dakar","2340 km","Par Fallou LO"
+"1767578252-339","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","KTM  990 2009","2 800 000 F CFA","Grand-Dakar,
+				Dakar","15000 km","Par D ASSAD"
+"1767578252-340","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=35","KTM  jakarta 2011","220 000 F CFA","Grand-Dakar,
+				Dakar","","Par Sadikh AUTO"
+"1767578256-341","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  TTR-250 2004","2 500 000 F CFA","Grand-Dakar,
+				Dakar","7385 km","Par Jean MOTO"
+"1767578256-342","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Suzuki  250-OZARK 0","2 800 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-343","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  QUAD-WOLVERINE 0","3 700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-344","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  QUAD-BIG-BEAR-250 2007","2 700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-345","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  QUAD-250-BRUIN 2010","3 400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-346","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  QUAD-450-RAPTOR 0","4 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-347","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","KTM  QUAD-525-SX 0","4 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-348","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Honda  350-rancher 0","3 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-349","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Bombardier  QUAD-200-RALLY 2005","1 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-350","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Kawasaki  450KXF 0","4 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-351","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Honda  125-VARADERO 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-352","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  350-grizzly 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-353","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  350-grizzly 2006","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-354","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  600-BELGARDA 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-355","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Suzuki  DRZ-400 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-356","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Beta  400-rr 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-357","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  250-ttr 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-358","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  450-YFZ 0","NC","Grand-Dakar,
+				Dakar","","Par Jean MOTO"
+"1767578256-359","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  majesty-250cm3 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Lebou NDOYE"
+"1767578256-360","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=37","Yamaha  X-city-250 0","NC","Grand-Dakar,
+				Dakar","","Par Moustapha SAMBA"
+"1767578259-361","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Piaggio  150-SUPER 0","990 000 F CFA","Grand-Dakar,
+				Dakar","","Par François SARTORI"
+"1767578259-362","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Yamaha  WRF-250 2004","1 700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Christophe DA ROCHA"
+"1767578259-363","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Yamaha  T-Max 2007","1 800 000 F CFA","Grand-Dakar,
+				Dakar","55000 km","Par Tapha  DIARRA"
+"1767578259-364","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Sportcity 0","599 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pape FAYE"
+"1767578259-365","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Sportcity 0","875 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pape FAYE"
+"1767578259-366","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Sportcity 0","NC","Grand-Dakar,
+				Dakar","","Par Pape FAYE"
+"1767578259-367","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Sportcity 0","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Pape FAYE"
+"1767578259-368","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Sportcity 0","495 000 F CFA","Grand-Dakar,
+				Dakar","21000 km","Par Pape FAYE"
+"1767578259-369","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Piaggio  X9 2008","950 000 F CFA","Grand-Dakar,
+				Dakar","15000 km","Par Abdou khadre  SAMB"
+"1767578259-370","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Piaggio  Liberty 2010","400 000 F CFA","Grand-Dakar,
+				Dakar","3100 km","Par Abdou khadre  SAMB"
+"1767578259-371","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Yamaha  XC 2010","750 000 F CFA","Grand-Dakar,
+				Dakar","31000 km","Par Abdou khadre  SAMB"
+"1767578259-372","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Triumph  Daytona-675 2010","1 800 000 F CFA","Grand-Dakar,
+				Dakar","20100 km","Par Abdou khadre  SAMB"
+"1767578259-373","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Kawasaki  V-Max 0","NC","Grand-Dakar,
+				Dakar","","Par Ibrahima GUEYE"
+"1767578259-374","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","MBK  Booster 0","260 000 F CFA","Grand-Dakar,
+				Dakar","","Par Damien KUHN"
+"1767578259-375","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Triumph  Stree Triple 0","2 300 000 F CFA","Grand-Dakar,
+				Dakar","6110 km","Par Djibril CAMARA"
+"1767578259-376","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Honda  Dominator 2000","850 000 F CFA","Grand-Dakar,
+				Dakar","63000 km","Par Frederic DELAGE"
+"1767578259-377","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Gilera  2-temps 0","500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Antoine CARMONA"
+"1767578259-378","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","KTM  990 2011","5 200 000 F CFA","Grand-Dakar,
+				Dakar","8000 km","Par Jamal HAGEALI"
+"1767578259-379","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Scarabeo-250 0","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par M. DIOP"
+"1767578259-380","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=39","Aprilia  Scarabeo-250 2004","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par M. DIOP"
+"1767578263-381","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  X8 2012","450 000 F CFA","Grand-Dakar,
+				Dakar","","Par Habib DIA"
+"1767578263-382","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  Liberty 0","290 000 F CFA","Grand-Dakar,
+				Dakar","","Par Damiens  FRANçOIS"
+"1767578263-383","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  X9 2007","1 200 000 F CFA","Grand-Dakar,
+				Dakar","","Par IBRAHIMA SENE"
+"1767578263-384","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  X9 2007","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par IBRAHIMA SENE"
+"1767578263-385","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  X9 2007","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par IBRAHIMA SENE"
+"1767578263-386","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Suzuki  Bourgoumane 2009","650 000 F CFA","Grand-Dakar,
+				Dakar","115000 km","Par Moustapha NDIAYE"
+"1767578263-387","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Kawasaki  Z1000 2011","3 500 000 F CFA","Grand-Dakar,
+				Dakar","130 km","Par Moustapha NDIAYE"
+"1767578263-388","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  ET300 2012","1 400 000 F CFA","Grand-Dakar,
+				Dakar","156 km","Par Moustapha NDIAYE"
+"1767578263-389","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Piaggio  Zip 2006","160 000 F CFA","Grand-Dakar,
+				Dakar","123 km","Par Moustapha NDIAYE"
+"1767578263-390","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Honda  SHI 0","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Ousmane DIAGNE"
+"1767578263-391","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Honda  125-R 2008","550 000 F CFA","Grand-Dakar,
+				Dakar","14000 km","Par Mr GRARI"
+"1767578263-392","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  Fz6 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-393","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  Fz6 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-394","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  FZ1 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-395","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  FZ1 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-396","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  FZ1 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-397","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Moto Morini  Z 0","NC","Grand-Dakar,
+				Dakar","","Par Dm SPACIBO"
+"1767578263-398","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Aprilia  650cc 1997","600 000 F CFA","Grand-Dakar,
+				Dakar","666 km","Par Dia  OUSSEYNOU"
+"1767578263-399","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Gilera  typhon-2-temps 0","300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Sidy DIOP"
+"1767578263-400","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=41","Yamaha  Majesti 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Abdel jalil BOURIES"
+"1767578266-401","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","KTM  950 0","NC","Grand-Dakar,
+				Dakar","","Par Ouzin SOKHNA"
+"1767578266-402","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","MBK  Majesty 2011","100 000 F CFA","Grand-Dakar,
+				Dakar","","Par Amdy GUEYE"
+"1767578266-403","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  Vespa 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Amdy GUEYE"
+"1767578266-404","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  Vespa 0","200 000 F CFA","Grand-Dakar,
+				Dakar","","Par Amdy GUEYE"
+"1767578266-405","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  Liberty 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mengos MENGOS"
+"1767578266-406","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  Liberty 0","500 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mengos MENGOS"
+"1767578266-407","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","KTM  MBK 2010","450 000 F CFA","Grand-Dakar,
+				Dakar","180 km","Par Henry WISMAN"
+"1767578266-408","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  Free 0","NC","Grand-Dakar,
+				Dakar","","Par Losseni DIABATé"
+"1767578266-409","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Yamaha  XC 0","600 000 F CFA","Grand-Dakar,
+				Dakar","29000 km","Par Jano NDIAYE"
+"1767578266-410","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Yamaha  XC 0","600 000 F CFA","Grand-Dakar,
+				Dakar","29000 km","Par Jano NDIAYE"
+"1767578266-411","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Yamaha  XC 0","600 000 F CFA","Grand-Dakar,
+				Dakar","29000 km","Par Jano NDIAYE"
+"1767578266-412","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  X8 2006","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mody DIA"
+"1767578266-413","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  X9 2004","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mody DIA"
+"1767578266-414","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Honda  600-hornet 2011","2 000 000 F CFA","Grand-Dakar,
+				Dakar","26000 km","Par Mouhamed HACHEM"
+"1767578266-415","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Kawasaki  Z1000 2006","1 300 000 F CFA","Grand-Dakar,
+				Dakar","32000 km","Par Mouhamed HACHEM"
+"1767578266-416","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","KTM  jakarta 2012","375 000 F CFA","Grand-Dakar,
+				Dakar","","Par Ousseynou  TRAORé"
+"1767578266-417","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Kymco  Fily 2010","1 000 000 F CFA","Grand-Dakar,
+				Dakar","400 km","Par Saliou MATHIAS"
+"1767578266-418","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Aprilia  Scarabeo 2008","220 000 F CFA","Grand-Dakar,
+				Dakar","150 km","Par Idrissa NIANG"
+"1767578266-419","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  X8 0","400 000 F CFA","Grand-Dakar,
+				Dakar","","Par Bachir  SOW"
+"1767578266-420","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=43","Piaggio  X8 0","380 000 F CFA","Grand-Dakar,
+				Dakar","","Par Bachir  SOW"
+"1767578270-421","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Yamaha  X-Max 2011","6 500 000 F CFA","Grand-Dakar,
+				Dakar","43000 km","Par Elhadjii ND"
+"1767578270-422","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Triumph  Stree Triple 0","2 200 000 F CFA","Grand-Dakar,
+				Dakar","","Par Cheikh MBENGUE"
+"1767578270-423","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","MBK  Stunt 0","140 000 F CFA","Grand-Dakar,
+				Dakar","","Par Dakar BUSINESS"
+"1767578270-424","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Gilera  Runner 2009","320 000 F CFA","Grand-Dakar,
+				Dakar","","Par Dakar BUSINESS"
+"1767578270-425","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Yamaha  T-Max 2010","3 100 000 F CFA","Grand-Dakar,
+				Dakar","","Par Dakar BUSINESS"
+"1767578270-426","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Kawasaki  Z1000 2010","3 000 000 F CFA","Grand-Dakar,
+				Dakar","20000 km","Par Dakar BUSINESS"
+"1767578270-427","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Kawasaki  Z 750 2011","2 350 000 F CFA","Grand-Dakar,
+				Dakar","10000 km","Par Dakar BUSINESS"
+"1767578270-428","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Honda  Sh 300i 2008","1 500 000 F CFA","Grand-Dakar,
+				Dakar","16000 km","Par Dakar BUSINESS"
+"1767578270-429","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Suzuki  GT-450 1999","800 000 F CFA","Grand-Dakar,
+				Dakar","400000 km","Par SENE DOUADA"
+"1767578270-430","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Triumph  1050 2008","3 000 000 F CFA","Grand-Dakar,
+				Dakar","20000 km","Par Mohamed NDIAYE"
+"1767578270-431","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Piaggio  X9 0","1 800 000 F CFA","Grand-Dakar,
+				Dakar","","Par Serigne Youssoupha FALL"
+"1767578270-432","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Aprilia  Sportcity 0","NC","Grand-Dakar,
+				Dakar","","Par Walid HOBALLAH"
+"1767578270-433","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Yamaha  majesty-250cm3 2004","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Sadio NDIAYE"
+"1767578270-434","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Yamaha  majesty-250cm3 2004","700 000 F CFA","Grand-Dakar,
+				Dakar","","Par Sadio NDIAYE"
+"1767578270-435","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Gilera  Nexus 0","NC","Grand-Dakar,
+				Dakar","","Par Sadio NDIAYE"
+"1767578270-436","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Aprilia  Leonardo 0","450 000 F CFA","Grand-Dakar,
+				Dakar","29000 km","Par Sadio NDIAYE"
+"1767578270-437","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Piaggio  X8 2009","550 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mamadou alpha  DIALLO"
+"1767578270-438","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Yamaha  Majesti 0","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Christ DIOUF"
+"1767578270-439","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","MBK  Stunt 2010","250 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mamadou alpha  DIALLO"
+"1767578270-440","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=45","Piaggio  Vespa 2011","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mamadou alpha  DIALLO"
+"1767578273-441","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Suzuki  gsxr 2006","3 500 000 F CFA","Grand-Dakar,
+				Dakar","14400 km","Par Marc LECOEUR"
+"1767578273-442","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Honda  HONDA-JAZZ 0","900 000 F CFA","Grand-Dakar,
+				Dakar","","Par XX BN"
+"1767578273-443","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","MBK  Stunt 2011","350 000 F CFA","Grand-Dakar,
+				Dakar","50 km","Par Naby DIOP"
+"1767578273-444","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","MBK  Stunt 2010","350 000 F CFA","Grand-Dakar,
+				Dakar","89 km","Par Naby DIOP"
+"1767578273-445","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Honda  Sh 300i 0","1 500 000 F CFA","Grand-Dakar,
+				Dakar","3500 km","Par Naby DIOP"
+"1767578273-446","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Suzuki  gsxr 2004","1 200 000 F CFA","Grand-Dakar,
+				Dakar","50000 km","Par Moktar S.Y."
+"1767578273-447","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Suzuki  gsxr 0","650 000 F CFA","Grand-Dakar,
+				Dakar","","Par Moktar S.Y."
+"1767578273-448","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Bmw  R 100 GS 0","1 000 000 F CFA","Grand-Dakar,
+				Dakar","240 km","Par Mouha NDIAYE"
+"1767578273-449","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Piaggio  Vespa 0","375 000 F CFA","Grand-Dakar,
+				Dakar","","Par Amine AMINE"
+"1767578273-450","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Gilera  Runner 0","480 000 F CFA","Grand-Dakar,
+				Dakar","","Par Insa FALL"
+"1767578273-451","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Piaggio  Beverly 0","750 000 F CFA","Grand-Dakar,
+				Dakar","","Par Saer DIOP"
+"1767578273-452","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Suzuki  650 competition 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par Jacques SENE"
+"1767578273-453","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Piaggio  X9 2006","770 000 F CFA","Grand-Dakar,
+				Dakar","","Par BOUBACAR DIATTA"
+"1767578273-454","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Triumph  Stree Triple 2010","1 500 000 F CFA","Grand-Dakar,
+				Dakar","3564 km","Par Ismaila SARR"
+"1767578273-455","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Yamaha  Majesti 2006","300 000 F CFA","Grand-Dakar,
+				Dakar","","Par Mansour L"
+"1767578273-456","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Piaggio 1050 Skipper 2011","350 000 F CFA","Grand-Dakar,
+				Dakar","140 km","Par Sene SHEIKH"
+"1767578273-457","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Yamaha  XC 2011","550 000 F CFA","Grand-Dakar,
+				Dakar","180 km","Par Ameth  MBENGUE"
+"1767578273-458","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Honda  FORESIGNT 2003","850 000 F CFA","Grand-Dakar,
+				Dakar","13000 km","Par AMADOU NDIAYE"
+"1767578273-459","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Yamaha  majesty-250cm3 0","600 000 F CFA","Grand-Dakar,
+				Dakar","","Par AMADOU NDIAYE"
+"1767578273-460","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=47","Kawasaki  ER6-N 2008","2 000 000 F CFA","Grand-Dakar,
+				Dakar","5000 km","Par Mehdi AKDAR PéREZ"
+"1767578277-461","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  T-Max 2010","2 900 000 F CFA","Grand-Dakar,
+				Dakar","2992 km","Par JEAN YVES JEFFRAY"
+"1767578277-462","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","KTM  950-ADVENTURE 2005","2 800 000 F CFA","Grand-Dakar,
+				Dakar","30749 km","Par JEAN YVES JEFFRAY"
+"1767578277-463","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  TTR-250 2003","2 500 000 F CFA","Grand-Dakar,
+				Dakar","5350 km","Par JEAN YVES JEFFRAY"
+"1767578277-464","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  250-BEAR-TRACKER 2008","2 400 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-465","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  T-Max 0","2 700 000 F CFA","Grand-Dakar,
+				Dakar","3195 km","Par JEAN YVES JEFFRAY"
+"1767578277-466","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  450-WRF 2007","2 400 000 F CFA","Grand-Dakar,
+				Dakar","14236 km","Par JEAN YVES JEFFRAY"
+"1767578277-467","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Honda  CRF-450-HM 2006","2 200 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-468","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  XTE-600 0","1 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-469","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  600-TTR-BELGARDA 0","2 500 000 F CFA","Grand-Dakar,
+				Dakar","13014 km","Par JEAN YVES JEFFRAY"
+"1767578277-470","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","KTM  950-ADVENTURE 0","2 500 000 F CFA","Grand-Dakar,
+				Dakar","31456 km","Par JEAN YVES JEFFRAY"
+"1767578277-471","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  RAPTOR-700 0","3 600 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-472","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Aprilia  750-DORSO-DURO 0","3 600 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-473","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","KTM  690-SMCR 0","2 500 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-474","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Bmw  GS1150 0","3 000 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-475","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  660-TENERE 0","2 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-476","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Aprilia  750-SHIVER 0","3 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-477","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Husqvarna  sm 610 0","3 300 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-478","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Yamaha  RAPTOR-350 0","2 900 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-479","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Suzuki  DR-650-DJEBEL 0","1 100 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
+"1767578277-480","https://dakar-auto.com/senegal/motos-and-scooters-3","https://dakar-auto.com/senegal/motos-and-scooters-3?&page=49","Bmw  GS-1200 0","3 650 000 F CFA","Grand-Dakar,
+				Dakar","","Par JEAN YVES JEFFRAY"
