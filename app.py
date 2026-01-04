@@ -8,49 +8,57 @@ import os
 
 st.set_page_config(page_title="AutoScraper App", layout="wide")
 
-st.title("🚗 AutoScraper – Dakar Auto")
+st.title("🚗 AutoScraper")
 st.markdown("Scraping, nettoyage et visualisation des données automobiles")
 
 # Sidebar navigation
-st.sidebar.title("Navigation")
-page = st.sidebar.radio("Aller à :", ["Scraper", "Télécharger", "Dashboard", "Évaluation"])
+menu = st.sidebar.selectbox(
+    "Navigation",
+    ["Scraping", "Télécharger données brutes", "Dashboard", "Évaluation"]
+)
 
 # Charger les données
 DATA_FILE = "data/"
+# Scraping
+if menu == "Scraping":
+    st.header("🔎 Scraper des données")
 
-if page == "Scraper":
-    st.title("Scraping des données")
-    url = st.text_input("Entrer l'URL de départ")
-    num_pages = st.number_input("Nombre de pages à scraper", min_value=1, value=5)
+    pages = st.number_input("Nombre de pages à scraper", min_value=1, max_value=50, value=5)
+
     if st.button("Lancer le scraping"):
-        if not url :
-            st.error("Veuiller entrer une URL valide")
-        else:
-            output_file = os.path.join(DATA_FILE, "new_scraped_data.csv")
-            try:
-                scraper.scrape_data(url, num_pages, output_file)
-                st.success("Scraping terminé ! Données enregistrées.")
-            except Exception as e:
-                st.error(f"Erreur lors du scraping : {e}")
+        with st.spinner("Scraping en cours..."):
+            df = scrape_voitures("https://dakar-auto.com/senegal/voitures-4", pages)
+            df.to_csv("data/raw/voitures_raw.csv", index=False)
+            st.success("Scraping terminé ✅")
 
-elif page == "Télécharger":
-    st.title("Téléchargement des données")
-    def load_(dataframe, title, key) :
-        st.markdown("""
-        <style>
-        div.stButton {text-align:center}
-        </style>""", unsafe_allow_html=True)
-
-        if st.button(title,key):
+        st.dataframe(df.head())
         
-            st.subheader('Display data dimension')
-            st.write('Data dimension: ' + str(dataframe.shape[0]) + ' rows and ' + str(dataframe.shape[1]) + ' columns.')
-            st.dataframe(dataframe)
-    # Charger les données 
-    load_(pd.read_csv('data/dogs_data.csv'), 'dogs data', '1')
-    load_(pd.read_csv('data/sheets_data.csv'), 'sheets data', '2')
-    load_(pd.read_csv('data/Rabbit&Chicken_data.csv'), 'Rabbit&Chicken data', '3')
-    load_(pd.read_csv('data/Other_animals_data.csv'), 'Ohter_animals data', '4')
+elif menu == "Télécharger données brutes":
+    st.header("📥 Données brutes (Web Scraper)")
+
+    st.markdown("Ces données ont été collectées automatiquement via Web Scraper.")
+
+    fichiers = {
+        "Voitures": "data/raw/voitures_raw.csv",
+        "Motos & Scooters": "data/raw/motos_raw.csv",
+        "Location de voitures": "data/raw/location_raw.csv"
+    }
+
+    choix = st.selectbox("Choisir un jeu de données", list(fichiers.keys()))
+
+    df_raw = pd.read_csv(fichiers[choix])
+
+    # 👀 Aperçu limité
+    st.subheader("Aperçu des données")
+    st.dataframe(df_raw.head(10), use_container_width=True)
+
+    # 📥 Téléchargement
+    st.download_button(
+        label="📥 Télécharger les données brutes",
+        data=df_raw.to_csv(index=False),
+        file_name=f"{choix.lower().replace(' ', '_')}_raw.csv",
+        mime="text/csv"
+    )
 
 elif page == "Dashboard":
     st.title("Visualisation des données")
@@ -90,4 +98,5 @@ elif page == "Dashboard":
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
     evaluation.show_evaluation_form()
+
 
