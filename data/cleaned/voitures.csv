@@ -1,0 +1,201 @@
+marque,annee,prix,adresse,kilometrage,boite_vitesse,carburant,proprietaire
+Lexus GX460,2020,38000000,"Ouest Foire, Dakar",55493 km,Automatique,Essence,Ulrich MIÉRÉ
+Mercedes GLC-300,2018,15000000,"Ouest Foire, Dakar",66485 km,Automatique,Essence,Ulrich MIÉRÉ
+Kia K5,2018,5500000,"Mbao, Dakar",89220 km,Automatique,Essence,cheikh ahmed tidiane toure
+Maserati Levante-Q4,2019,21000000,"Sicap Sacré Coeur, Dakar",11000 km,Automatique,Diesel,Mansour Diagne
+Hyundai Santa Fe,2017,9000000,"Mermoz Sacré-Coeur, Dakar",92000 km,Automatique,Essence,Mme Diop
+Hyundai Elantra,2014,3850000,"Médina, Dakar",121745 km,Automatique,Essence,Rose DIOMPY
+Kia Rondo,2016,3950000,"Médina, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Volostar,2012,3200000,"Sicap Foire, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Bmw X3,2017,11500000,"Sicap Dieuppeul, Dakar",117394 km,Automatique,Essence,Rose DIOMPY
+Kia Sorento,2011,3200000,"Dieuppeul Derklé, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2015,6300000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Renault Symbole,2017,3500000,"Parcelles Assainies, Dakar",120 km,Manuelle,Essence,ELHADJI sow
+Toyota Verso,2017,300000,"Golf, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Mitsubishi Outlander,2017,8000000,"Gueule-Tapée, Fass, Colobane, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Renault Talisman,2017,7200000,"Sicap Dieuppeul, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Peugeot 3008,2018,14500000,"Sud Foire, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Renault Oroch,2021,6,"Nord Foire, Dakar",50 km,Manuelle,Essence,GABYAUTO GAYE
+Bentley Brooklands,2020,18500000,"Dieuppeul Derklé, Dakar",34000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2016,5450000,"Ouest Foire, Dakar",112333 km,Automatique,Essence,Rose DIOMPY
+Citroen C4,2017,5700000,"Sicap Dieuppeul, Dakar",120000 km,Automatique,Diesel,Rose DIOMPY
+Hyundai Tucson,2018,8500,"Mbour, Thiès",165000 km,Automatique,Essence,Ibou SARR
+Ford Wildtrack-ranger,2018,18500000,"Keur Massar, Dakar",200000 km,Manuelle,Diesel,Papa Gueye
+Toyota C-hr,2023,17500000,"Keur Massar, Dakar",105000 km,Automatique,Essence,Papa Gueye
+Mitsubishi L200,2017,16000000,"Keur Massar, Dakar",200000 km,Automatique,Diesel,Papa Gueye
+Hyundai Tucson,2018,12200000,"Keur Massar, Dakar",114000 km,Automatique,Diesel,Papa Gueye
+Citroen C3,2017,6200000,"Keur Massar, Dakar",200000 km,Manuelle,Diesel,Papa Gueye
+Volkswagen Atlas,2018,19000000,"Point-E, Dakar",107000 km,Automatique,Essence,Ahmed Dieng
+Hyundai Grandeur,2015,5000000,"Point-E, Dakar",25000 km,Automatique,Essence,Sow Rassoul
+Mitsubishi L200,2016,6300000,"Grand-Yoff, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Mitsubishi L200,2020,9950000,"Sud Foire, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Bmw X4,2017,10500000,"Guédiawaye, Dakar",100000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Sonata,2017,6500000,"Patte d'oie, Dakar",65000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Sonata,2015,3500000,"Dieuppeul Derklé, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Range Rover Sport,2017,18000000,"Liberté 6 extension, Dakar",83000 km,Automatique,Diesel,Rose DIOMPY
+Toyota Hi Ace,2010,8000000,"Ouest Foire, Dakar",150000 km,Manuelle,Diesel,madior fall
+Ford Fusion,2012,1800000,"Kaolack, Kaolack",1 km,Automatique,Essence,Moussa Diop
+Mazda 3,2018,6600000,"Fann, Dakar",63000 km,Automatique,Essence,Rose DIOMPY
+Kia Kia-k7,2016,5200000,"Ouest Foire, Dakar",120000 km,Automatique,Essence,Cheikh Gueye
+Nissan Juke,2012,3500000,"Dieuppeul Derklé, Dakar",126100 km,Automatique,Essence,Ciré Ndiaye
+Chevrolet Cruze,2014,2500000,"Sicap Dieuppeul, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Dacia Sandero,2017,4800000,"Biscuiterie, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Dacia Duster,2019,8750000,"Dieuppeul Derklé, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Bmw X5,2018,13850000,"Point-E, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Bmw X4,2018,22000000,"Sicap Sacré Coeur, Dakar",116400 km,Automatique,Essence,Idrissa Dieye
+Peugeot 406,2004,1000000,"Nguekhokh, Thiès",200000 km,Manuelle,Diesel,MAMADOU GUEYE
+Renault Dusteur,2011,6000000,"Malicounda, Thiès",85000 km,Manuelle,Essence,MAMADOU GUEYE
+Peugeot 3008,2017,8500000,"Grand-Yoff, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Kia Sportage,2018,10750000,"Liberté 6 extension, Dakar",98000 km,Automatique,Diesel,Rose DIOMPY
+Hyundai Ix35,2012,4900000,"Virage, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ford Focus,2014,2700000,"Rufisque, Dakar",280000 km,Manuelle,Essence,Eloi Diouf
+Ford Focus,2014,2700000,"Rufisque, Dakar",280000 km,Manuelle,Essence,Eloi Diouf
+Range Rover Sport,2019,19000000,"Sicap Foire, Dakar",54000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2019,9300000,"Dieuppeul Derklé, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ford ESCAPE-SE,2018,5200000,"Grand-Yoff, Dakar",101000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2018,8900000,"Ngueniene, Thiès",153000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2020,7800000,"Sicap Dieuppeul, Dakar",45000 km,Automatique,Essence,Rose DIOMPY
+Kia Sportage,2023,23290000,"Point-E, Dakar",18000 km,Automatique,Essence,Rose DIOMPY
+Citroen C5,2020,9700000,"Fann, Dakar",64000 km,Automatique,Essence,Rose DIOMPY
+Nissan Qashqai,2010,3000000,"Dieuppeul Derklé, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Renault clio-4,2014,3800000,"Sud Foire, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Ford Fusion,2017,4900000,"Sicap Foire, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2016,6290000,"Grand-Dakar, Dakar",110000 km,Automatique,Essence,Rose DIOMPY
+Citroen C4,2017,5600000,"Thiès, Thiès",111000 km,Automatique,Diesel,Rose DIOMPY
+Nissan Juke,2017,6700000,"Ngor, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Chevrolet Cruze,2011,2500000,"Biscuiterie, Dakar",1 km,Automatique,Essence,Naby Faye
+Kia Optima,2014,3500000,"Grand-Yoff, Dakar",129000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2014,4950000,"Sud Foire, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Sportage,2017,9500000,"Grand-Dakar, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Sonata,2016,4100000,"Sicap Liberté, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Renault FRIGORIPHIQUE,2017,8000000,"Hlm, Dakar",101000 km,Automatique,Diesel,Rose DIOMPY
+Peugeot 3008,2017,5000000,"Cambérène, Dakar",120000 km,Automatique,Diesel,Rose DIOMPY
+Mitsubishi Outlander,2018,8700000,"Médina, Dakar",102723 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2017,7500000,"Amitié, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Peugeot 308,2012,3700000,"Cambérène, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Renault Dusteur,2017,6800000,"VDN, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ssangyong Korando,2016,5500000,"Parcelles Assainies, Dakar",150000 km,Automatique,Diesel,Rose DIOMPY
+Toyota Prado,2016,15900000,"Point-E, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Ford Edge,2016,5800000,"Dieuppeul Derklé, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Kia-k7,2016,4700000,"Liberté 6, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ford Fusion,2014,2800000,"Liberté 4, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Jeep Cherokee,2014,7,"Guédiawaye, Dakar",117000 km,Automatique,Essence,ABDOUL DIA
+Toyota Rav 4,2017,13500000,"Liberté 6 extension, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Renault Renault-master,2017,7000000,"Scat Urbam, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Chevrolet Equinox,2012,2800000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Citroen Ds4,2013,4350000,"Parcelles Assainies, Dakar",100000 km,Automatique,Diesel,Rose DIOMPY
+Peugeot 308,2016,4500000,"Sud Foire, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Bmw X5,2015,15000000,"Gueule-Tapée, Fass, Colobane, Dakar",117000 km,Automatique,Essence,Rose DIOMPY
+Citroen C4,2018,8200000,"Keur Massar, Dakar",100000 km,Automatique,Diesel,Papa Gueye
+Ford Fusion,2017,6600000,"Keur Massar, Dakar",100000 km,Automatique,Essence,Papa Gueye
+Peugeot 208,2017,5700000,"Keur Massar, Dakar",100000 km,Manuelle,Diesel,Papa Gueye
+Peugeot 2008,2020,9500000,"Keur Massar, Dakar",100000 km,Automatique,Diesel,Papa Gueye
+Nissan NISSAN,2021,10900000,"Sicap Liberté, Dakar",26000 km,Automatique,Essence,Thiané SIDIBE
+Bmw X5,2014,9500000,"Grand-Dakar, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2017,6800000,"Mbao, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Grandeur,2015,5000000,"Sud Foire, Dakar",93698 km,Automatique,Essence,Rose DIOMPY
+Ford ESCAPE-SE,2013,3500000,"Scat Urbam, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Elantra,2017,5850000,"Thiaroye, Dakar",120000 km,Automatique,Essence,Rose DIOMPY
+Renault megane-3,2012,3000000,"Sicap Foire, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Suzuki Vitara,2022,8700000,"Sicap Dieuppeul, Dakar",49000 km,Automatique,Essence,Rose DIOMPY
+Citroen Berlingo,1998,8500000,"Bokidiawé, Matam",300000 km,Manuelle,Diesel,Amadou BANOR
+Peugeot 208,2017,5000000,"Hlm, Dakar",110000 km,Manuelle,Diesel,Rose DIOMPY
+Peugeot 3008,2019,12500000,"Sicap Baobab, Dakar",111000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2017,8900000,"Fann, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2021,28000000,"VDN, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Hyundai Tucson,2018,8500000,"Nord Foire, Dakar",120000 km,Automatique,Essence,Rose DIOMPY
+Jeep grand-cherokee,2019,10800000,"Nord Foire, Dakar",85000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2023,26000000,"Mermoz Sacré-Coeur, Dakar",38200 km,Automatique,Essence,Rose DIOMPY
+Toyota Highlander,2023,25000000,"Point-E, Dakar",70000 km,Automatique,Essence,Rose DIOMPY
+Hyundai Avante,2018,4200000,"Cambérène, Dakar",87000 km,Automatique,Essence,Rose DIOMPY
+Toyota Rav 4,2007,4200000,"Cambérène, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Peugeot 3008,2016,5700000,"Gibraltar, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Bmw X3,2015,7800000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Elantra,2013,3700000,"Médina, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Peugeot 2008,2021,11000000,"Thiaroye, Dakar",1 km,Manuelle,Essence,Rose DIOMPY
+Jeep GRAND-CHEROKEE-LIMITED,2020,14900000,"Sicap Dieuppeul, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Citroen C4,2017,7300000,"Keur Massar, Dakar",100000 km,Manuelle,Diesel,Papa Gueye
+Ford ESCAPE-SE,2016,6300000,"Grand-Dakar, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Santa Fe,2018,8800000,"Thiès, Thiès",153000 km,Automatique,Essence,Cheikh COUNTA
+Nissan Juke,2016,4500000,"Golf, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Sportage,2016,6300000,"Grand-Yoff, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Infiniti QX,2017,13000000,"Hlm, Dakar",118000 km,Automatique,Essence,Rose DIOMPY
+Jeep GRAND-CHEROKEE-LIMITED,2020,14900000,"Grand-Dakar, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Toyota Prado,2023,55000000,"Golf, Dakar",,Automatique,Diesel,Rose DIOMPY
+Citroen C4,2017,7000000,"Thiès, Thiès",1 km,Manuelle,Diesel,Rose DIOMPY
+Hyundai santafe,2018,8900000,"Scat Urbam, Dakar",153000 km,Automatique,Essence,Rose DIOMPY
+Mercedes GLC-300,2023,43000000,"Point-E, Dakar",75300 km,Automatique,Essence,Rose DIOMPY
+Mitsubishi L200,2011,5300000,"Cambérène, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Peugeot 207,2011,3100000,"Amitié, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Mazda Cx-5,2016,4300000,"Sicap Dieuppeul, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Mitsubishi Asx,2017,7800000,"Scat Urbam, Dakar",93000 km,Manuelle,Diesel,Rose DIOMPY
+Mazda cx5,2016,9900000,"VDN, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Optima,2014,3500000,"Keur Massar, Dakar",195400 km,Automatique,Essence,ibrahima BEYE
+Peugeot 5008,2016,3950000,"Grand-Yoff, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Renault Renault-master,2017,47000000,"Point-E, Dakar",78223 km,Automatique,Essence,Rose DIOMPY
+Mitsubishi Pajero,2016,9000000,"Sicap Dieuppeul, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Peugeot 308,2012,781847549,"Grand-Yoff, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Hyundai Elantra,2016,4400000,"VDN, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Sportage,2017,8700000,"Médina, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Renault renault,2018,10500000,"Point-E, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Peugeot 2008,2017,5800000,"Biscuiterie, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Toyota Modele F,2011,2950000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Nissan Patrol,2015,20000000,"Fann, Dakar",35000 km,Automatique,Essence,Rose DIOMPY
+Ford Explorer,2015,4800000,"Sicap Foire, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Peugeot 307-break,2015,3500000,"Malika, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Hyundai Tucson,2017,7600000,"Sicap Liberté, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Optima,2012,3600000,"Sicap Dieuppeul, Dakar",120000 km,Automatique,Essence,Rose DIOMPY
+Jeep GRAND-CHEROKEE-LIMITED,2015,6750000,"Point-E, Dakar",99000 km,Automatique,Essence,Rose DIOMPY
+Jeep grand-cherokee,2015,5600000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Kia Sorento,2015,5500000,"Sicap Dieuppeul, Dakar",94000 km,Automatique,Diesel,Rose DIOMPY
+Mitsubishi Outlander,2018,8700000,"Parcelles Assainies, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Chevrolet Cruze,2013,2600000,"Liberté 6, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Chevrolet Camaro,2015,9500000,"Sicap Sacré Coeur, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ford Escape-Titanium,2016,3800000,"Golf, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Ford Focus,2013,2500000,"Guédiawaye, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Hyundai Tucson,2017,8500000,"Sud Foire, Dakar",86000 km,Automatique,Essence,Rose DIOMPY
+Kia Sportage,2023,21000000,"Sicap Foire, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Citroen C3,2015,1800000,"Grand-Dakar, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Kia Sportage,2017,8000000,"Biscuiterie, Dakar",115000 km,Automatique,Essence,Rose DIOMPY
+Citroen Ds5,2017,15000000,"Point-E, Dakar",1 km,Automatique,Diesel,Rose DIOMPY
+Ford Taurus,2012,2850000,"Cambérène, Dakar",1 km,Automatique,Essence,Rose DIOMPY
+Audi Q3,2023,26500000,"Sicap Foire, Dakar",30000 km,Automatique,Diesel,Rose DIOMPY
+Mazda cx5,2016,8000000,"Guédiawaye, Dakar",100000 km,Manuelle,Essence,Rose DIOMPY
+Mitsubishi mitsubishi,2008,3000000,"Sicap Dieuppeul, Dakar",1 km,Manuelle,Diesel,Rose DIOMPY
+Toyota Verso,2012,4000000,"Biscuiterie, Dakar",296780 km,Automatique,Essence,Rose DIOMPY
+Toyota Tundra,2014,20000000,"Gueule-Tapée, Fass, Colobane, Dakar",130000 km,Automatique,Essence,Moustapha Dieng
+Nissan Juke,2012,3500000,"Mbao, Dakar",127000 km,Manuelle,Diesel,Ousseynou Diouf
+Dacia Lodgy,2014,2850000,"Pikine Ouest, Dakar",198000 km,Manuelle,Essence,Mourtada Ndiaye
+Toyota TOYOTA,2024,16000000,"Hann Maristes, Dakar",2500 km,Automatique,Essence,Cheikhna NDIOUCK
+Nissan ROGUE,2011,3000000,"Grand-Yoff, Dakar",129000 km,Automatique,Essence,Bocar Ba
+Renault 450DXI-PREMIUM,2016,27000000,"Wakhinane, Nimzatt, Dakar",135000 km,Manuelle,Diesel,Atlys Atlys
+Peugeot 5008,2015,4000000,"Biscuiterie, Dakar",125700 km,Manuelle,Diesel,MOURAD ENNAJY
+Ford Edge,2020,12900000,"VDN, Dakar",121000 km,Automatique,Essence,Fallou Diop
+Chevrolet Equinox,2019,7900000,"VDN, Dakar",121000 km,Automatique,Essence,Fallou Diop
+Ford ESCAPE-SE,2016,4500000,"Ouest Foire, Dakar",185000 km,Automatique,Essence,Sa'ïd Diakhate
+Citroen C3,2014,3500000,"Mbao, Dakar",1 km,Manuelle,Diesel,Badara Ndiaye
+Hyundai Tucson,2017,11500,"Cambérène, Dakar",59410 km,Automatique,Essence,Badara Ndiaye
+Jeep jeep-patriot,2006,3000000,"Almadies, Dakar",192000 km,Manuelle,Essence,Dia Youssef
+Jeep Patriot,2008,3000000,"Almadies, Dakar",170000 km,Manuelle,Essence,Dia Youssef
+Hyundai Tucson,2017,11500000,"VDN, Dakar",99000 km,Automatique,Essence,Sokhna Faty
+Hyundai Sonata,2016,6800000,"VDN, Dakar",73201 km,Automatique,Essence,yao donoukpo
+Hyundai Tucson,2020,12500000,"Parcelles Assainies, Dakar",66400 km,Manuelle,Essence,Marcel Sane
+Hyundai Sonata,2016,6800000,"VDN, Dakar",72075 km,Automatique,Essence,yao donoukpo
+Hyundai GRANDEUR-Q270,2016,7500000,"VDN, Dakar",72720 km,Automatique,Essence,yao donoukpo
+Kia Sorento,2016,10500000,"VDN, Dakar",72326 km,Automatique,Diesel,yao donoukpo
+Ford Ecosport,2018,6700000,"Pikine Est, Dakar",80000 km,Automatique,Essence,Fad Dia
+Peugeot 407,2009,2300000,"Thiaroye-sur-Mer, Dakar",412000 km,Manuelle,Diesel,Mouhamadou Gaye
+Toyota Rav 4,2018,13000000,"Ouest Foire, Dakar",134000 km,Automatique,Essence,Ndeye mareme Diop
+Renault Clio,2004,1700000,"Kaolack, Kaolack",175000 km,Manuelle,Diesel,demba Gueye
+Fiat 500,2014,2900000,"Thiaroye, Dakar",100000 km,Manuelle,Essence,GABYAUTO GAYE
+Cadillac CTS,2012,2000000,"Hann Maristes, Dakar",120000 km,Automatique,Essence,Moussa NIANG
+Dacia Sandero,2011,2300000,"Hann Bel-Air, Dakar",240750 km,Manuelle,Essence,Abdou kader DIALLO
+Ford Edge,2016,50000,"Mermoz Sacré-Coeur, Dakar",100 km,Automatique,Essence,LUXURY CAR SENEGAL
+Hyundai Tucson,2011,5500000,"Point-E, Dakar",140000 km,Automatique,Essence,joan-yves Darys Anguilet
+Hyundai Santa Fe,2008,3500000,"Parcelles Assainies, Dakar",180000 km,Automatique,Essence,Mami Kane
+Kia Sportage,2017,5800000,"Ouest Foire, Dakar",80000 km,Automatique,Essence,Amadou Dieye
+Hyundai Elantra,2020,4500000,"Ouest Foire, Dakar",80000 km,Automatique,Essence,Amadou Dieye
+Kia Sorento,2016,11500000,"Ouest Foire, Dakar",102000 km,Automatique,Diesel,Amadou Dieye
+Peugeot Partner,2022,8000000,"Dieuppeul Derklé, Dakar",42300 km,Manuelle,Diesel,Malick Ba
+Mazda Cx-5,2016,8900000,"Gueule-Tapée, Fass, Colobane, Dakar",92000 km,Automatique,Essence,joan-yves Darys Anguilet
+Hyundai Elantra,2013,5000000,"Gueule-Tapée, Fass, Colobane, Dakar",79000 km,Automatique,Essence,joan-yves Darys Anguilet
