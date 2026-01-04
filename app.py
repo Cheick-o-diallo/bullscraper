@@ -2,7 +2,6 @@ import streamlit as st
 import scraper
 import matplotlib.pyplot as plt
 import seaborn as sns
-import evaluation 
 import pandas as pd
 import os
 
@@ -167,3 +166,4 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
