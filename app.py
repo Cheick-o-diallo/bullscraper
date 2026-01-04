@@ -18,7 +18,7 @@ menu = st.sidebar.selectbox(
 )
 
 # Charger les données
-DATA_FILE = "data/"
+#DATA_FILE = "data/"
 # Scraping
 if menu == "Scraping":
     st.header("🔎 Scraper des données")
@@ -60,43 +60,110 @@ elif menu == "Télécharger données brutes":
         mime="text/csv"
     )
 
-elif page == "Dashboard":
-    st.title("Visualisation des données")
-    selected_file = st.selectbox("Sélectionnez un dataset :", os.listdir(DATA_FILE))
-    if selected_file:
-        file_path = os.path.join(DATA_FILE, selected_file)
-        
-        try:
-            df = pd.read_csv(file_path)
+elif menu == "Dashboard":
+    st.header("📊 Dashboard – Données nettoyées (BeautifulSoup)")
 
-            st.write("### Aperçu des données")
-            st.dataframe(df.head())
+    fichiers = {
+        "Voitures": "data/cleaned/voitures.csv",
+        "Motos & Scooters": "data/cleaned/motos.csv",
+        "Location de voitures": "data/cleaned/location_voitures.csv"
+    }
 
-            # Vérifier si la colonne 'prix' existe
-            if 'prix' in df.columns:
-                # Convertir en numérique
-                df['prix'] = pd.to_numeric(df['prix'], errors='coerce')
-                df = df.dropna(subset=['prix'])
+    choix = st.selectbox("Choisir un jeu de données", list(fichiers.keys()))
 
-                st.write("### Distribution des prix")
-                fig, ax = plt.subplots(figsize=(10, 5))
-                sns.histplot(df['prix'], bins=30, kde=True, color='skyblue', ax=ax)
-                ax.set_xlabel("Prix (CFA)")
-                ax.set_ylabel("Nombre d'annonces")
-                ax.set_title("Distribution des prix des chiens")
-                ax.grid(True)
-                
-                # Affichage dans Streamlit
-                st.pyplot(fig)
-            
-            else:
-                st.warning("Le dataset sélectionné ne contient pas de colonne 'prix'.")
-        
-        except:
-            st.error("Erreur lors du chargement du fichier :")
+    df = pd.read_csv(fichiers[choix])
 
-elif page == "Évaluation":
-    st.title("Formulaire d'évaluation")
-    evaluation.show_evaluation_form()
+    st.caption("Données issues du scraping BeautifulSoup – déjà nettoyées")
+
+    # --------------------
+    # Filtres dynamiques
+    # --------------------
+    filtres = st.columns(3)
+
+    with filtres[0]:
+        if "marque" in df.columns:
+            marques = st.multiselect(
+                "Marque",
+                sorted(df["marque"].dropna().unique())
+            )
+        else:
+            marques = []
+
+    with filtres[1]:
+        if "annee" in df.columns:
+            annee_min, annee_max = st.slider(
+                "Année",
+                int(df["annee"].min()),
+                int(df["annee"].max()),
+                (int(df["annee"].min()), int(df["annee"].max()))
+            )
+        else:
+            annee_min = annee_max = None
+
+    with filtres[2]:
+        if "carburant" in df.columns:
+            carburants = st.multiselect(
+                "Carburant",
+                sorted(df["carburant"].dropna().unique())
+            )
+        else:
+            carburants = []
+
+    # --------------------
+    # Application filtres
+    # --------------------
+    df_filtre = df.copy()
+
+    if marques:
+        df_filtre = df_filtre[df_filtre["marque"].isin(marques)]
+
+    if carburants:
+        df_filtre = df_filtre[df_filtre["carburant"].isin(carburants)]
+
+    if annee_min and annee_max:
+        df_filtre = df_filtre[
+            (df_filtre["annee"] >= annee_min) &
+            (df_filtre["annee"] <= annee_max)
+        ]
+
+    # --------------------
+    # KPI
+    # --------------------
+    st.subheader("Indicateurs clés")
+
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Nombre d'annonces", len(df_filtre))
+    c2.metric("Prix moyen", int(df_filtre["prix"].mean()) if "prix" in df_filtre else "N/A")
+    c3.metric("Année moyenne", int(df_filtre["annee"].mean()) if "annee" in df_filtre else "N/A")
+
+    # --------------------
+    # Visualisations
+    # --------------------
+    st.subheader("Visualisations")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        if "carburant" in df_filtre.columns:
+            st.bar_chart(df_filtre["carburant"].value_counts())
+
+    with col2:
+        if "annee" in df_filtre.columns and "prix" in df_filtre.columns:
+            st.line_chart(
+                df_filtre.groupby("annee")["prix"].mean()
+            )
+
+    # --------------------
+    # Aperçu
+    # --------------------
+    st.subheader("Aperçu des données")
+    st.dataframe(df_filtre.head(20), use_container_width=True)
 
 
+elif menu == "Évaluation":
+    st.header("📝 Évaluer l'application")
+
+    st.markdown("""
+    Merci de prendre quelques secondes pour évaluer cette application 👇  
+    👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
+    """)
