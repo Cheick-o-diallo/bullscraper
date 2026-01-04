@@ -6,7 +6,10 @@ import evaluation
 import pandas as pd
 import os
 
-st.set_page_config(page_title="Scraper App", layout="wide")
+st.set_page_config(page_title="AutoScraper App", layout="wide")
+
+st.title("🚗 AutoScraper – Dakar Auto")
+st.markdown("Scraping, nettoyage et visualisation des données automobiles")
 
 # Sidebar navigation
 st.sidebar.title("Navigation")
@@ -87,3 +90,4 @@ elif page == "Dashboard":
 elif page == "Évaluation":
     st.title("Formulaire d'évaluation")
     evaluation.show_evaluation_form()
+
