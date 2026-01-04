@@ -38,9 +38,9 @@ elif menu == "Télécharger données brutes":
     st.markdown("Ces données ont été collectées automatiquement via Web Scraper.")
 
     fichiers = {
-        "Voitures": "data/raw/voitures_raw.csv",
-        "Motos & Scooters": "data/raw/motos_raw.csv",
-        "Location de voitures": "data/raw/location_raw.csv"
+        "Voitures": "data/raw/cars_scraper.csv",
+        "Motos & Scooters": "data/raw/bike_scraper.csv",
+        "Location de voitures": "data/raw/location_scraper.csv"
     }
 
     choix = st.selectbox("Choisir un jeu de données", list(fichiers.keys()))
@@ -166,6 +166,7 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
 
 
 
