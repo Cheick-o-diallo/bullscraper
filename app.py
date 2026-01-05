@@ -64,9 +64,37 @@ elif menu == "Scraping":
     st.download_button(
         label="📥 Télécharger les données brutes",
         data=df_raw.to_csv(index=False),
+        file_name=f"{choix.lower().replace(' ', '_')}_durty.csv",
+        mime="text/csv"
+    )
+
+elif menu == "Télécharger données brutes":
+    st.header("📥 Données brutes (Web Scraper)")
+
+    st.markdown("Ces données ont été collectées automatiquement via Web Scraper.")
+
+    fichiers = {
+        "Voitures": "data/raw/voitures_raw.csv",
+        "Motos & Scooters": "data/raw/motos_raw.csv",
+        "Location de voitures": "data/raw/location_raw.csv"
+    }
+
+    choix = st.selectbox("Choisir un jeu de données", list(fichiers.keys()))
+
+    df_raw = pd.read_csv(fichiers[choix])
+
+    # 👀 Aperçu limité
+    st.subheader("Aperçu des données")
+    st.dataframe(df_raw.head(10), use_container_width=True)
+
+    # 📥 Téléchargement
+    st.download_button(
+        label="📥 Télécharger les données brutes",
+        data=df_raw.to_csv(index=False),
         file_name=f"{choix.lower().replace(' ', '_')}_raw.csv",
         mime="text/csv"
     )
+
 
 elif menu == "Dashboard":
     st.header("📊 Dashboard – Données nettoyées (BeautifulSoup)")
@@ -83,9 +111,7 @@ elif menu == "Dashboard":
 
     st.caption("Données issues du scraping BeautifulSoup – déjà nettoyées")
 
-    # --------------------
     # Filtres dynamiques
-    # --------------------
     filtres = st.columns(3)
 
     with filtres[0]:
@@ -117,9 +143,7 @@ elif menu == "Dashboard":
         else:
             carburants = []
 
-    # --------------------
     # Application filtres
-    # --------------------
     df_filtre = df.copy()
 
     if marques:
@@ -134,9 +158,6 @@ elif menu == "Dashboard":
             (df_filtre["annee"] <= annee_max)
         ]
 
-    # --------------------
-    # KPI
-    # --------------------
     st.subheader("Indicateurs clés")
 
     c1, c2, c3 = st.columns(3)
@@ -144,9 +165,7 @@ elif menu == "Dashboard":
     c2.metric("Prix moyen", int(df_filtre["prix"].mean()) if "prix" in df_filtre else "N/A")
     c3.metric("Année moyenne", int(df_filtre["annee"].mean()) if "annee" in df_filtre else "N/A")
 
-    # --------------------
     # Visualisations
-    # --------------------
     st.subheader("Visualisations")
 
     col1, col2 = st.columns(2)
@@ -161,9 +180,7 @@ elif menu == "Dashboard":
                 df_filtre.groupby("annee")["prix"].mean()
             )
 
-    # --------------------
     # Aperçu
-    # --------------------
     st.subheader("Aperçu des données")
     st.dataframe(df_filtre.head(20), use_container_width=True)
 
