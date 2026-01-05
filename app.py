@@ -63,7 +63,7 @@ if menu == "Scraping":
     # 📥 Téléchargement
     st.download_button(
         label="📥 Télécharger les données brutes",
-        data=df_raw.to_csv(index=False),
+        data=df.to_csv(index=False),
         file_name=f"{choix.lower().replace(' ', '_')}_durty.csv",
         mime="text/csv"
     )
@@ -74,8 +74,8 @@ elif menu == "Télécharger données brutes":
     st.markdown("Ces données ont été collectées automatiquement via Web Scraper.")
 
     fichiers = {
-        "Voitures": "data/raw/voitures_raw.csv",
-        "Motos & Scooters": "data/raw/motos_raw.csv",
+        "Voitures": "data/raw/cars_raw.csv",
+        "Motos & Scooters": "data/raw/bike_raw.csv",
         "Location de voitures": "data/raw/location_raw.csv"
     }
 
@@ -192,6 +192,7 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
 
 
 
