@@ -183,7 +183,9 @@ elif menu == "Évaluation":
     st.markdown("""
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
+    👉 [Accéder au formulaire](https://kf.kobotoolbox.org/#/forms/aTedgNQ8kfk6HwhAcCvVSZ)
     """)
+
 
 
 
