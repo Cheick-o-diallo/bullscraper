@@ -60,14 +60,6 @@ if menu == "Scraping":
         st.success("Scraping terminé avec succès ✅")
         st.dataframe(df.head(10), use_container_width=True)
 
-    # 📥 Téléchargement
-    st.download_button(
-        label="📥 Télécharger les données brutes",
-        data=df.to_csv(index=False),
-        file_name=f"{choix.lower().replace(' ', '_')}_durty.csv",
-        mime="text/csv"
-    )
-
 elif menu == "Télécharger données brutes":
     st.header("📥 Données brutes (Web Scraper)")
 
@@ -192,6 +184,7 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
 
 
 
