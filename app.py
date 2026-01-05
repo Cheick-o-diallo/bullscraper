@@ -17,7 +17,7 @@ menu = st.sidebar.selectbox(
 )
 
 # scraping
-elif menu == "Scraping":
+if menu == "Scraping":
     st.header("🔎 Scraping multi-pages")
 
     sources = {
@@ -192,6 +192,7 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
 
 
 
