@@ -16,40 +16,49 @@ menu = st.sidebar.selectbox(
     ["Scraping", "Télécharger données brutes", "Dashboard", "Évaluation"]
 )
 
-# Charger les données
-#DATA_FILE = "data/"
-# Scraping
-if menu == "Scraping":
-    st.header("🔎 Scraper des données")
+# scraping
+elif menu == "Scraping":
+    st.header("🔎 Scraping multi-pages")
 
-    pages = st.number_input("Nombre de pages à scraper", min_value=1, max_value=50, value=5)
+    sources = {
+        "Voitures": {
+            "url": "https://dakar-auto.com/senegal/voitures-4",
+            "scraper": scrape_voitures,
+            "output": "data/cleaned/voitures.csv"
+        },
+        "Motos & Scooters": {
+            "url": "https://dakar-auto.com/senegal/motos-and-scooters-3",
+            "scraper": scrape_motos,
+            "output": "data/cleaned/motos.csv"
+        },
+        "Location de voitures": {
+            "url": "https://dakar-auto.com/senegal/location-de-voitures-19",
+            "scraper": scrape_location,
+            "output": "data/cleaned/location_voitures.csv"
+        }
+    }
+
+    choix = st.selectbox("Choisir le type de données", list(sources.keys()))
+
+    url = st.text_input(
+        "URL du site à scraper",
+        value=sources[choix]["url"]
+    )
+
+    pages = st.number_input(
+        "Nombre de pages",
+        min_value=1,
+        max_value=50,
+        value=5
+    )
 
     if st.button("Lancer le scraping"):
         with st.spinner("Scraping en cours..."):
-            df = scrape_voitures("https://dakar-auto.com/senegal/voitures-4", pages)
-            df.to_csv("data/raw/voitures_raw.csv", index=False)
-            st.success("Scraping terminé ✅")
+            df = sources[choix]["scraper"](url, pages)
+            df.to_csv(sources[choix]["output"], index=False)
 
-        st.dataframe(df.head())
-        
-elif menu == "Télécharger données brutes":
-    st.header("📥 Données brutes (Web Scraper)")
-
-    st.markdown("Ces données ont été collectées automatiquement via Web Scraper.")
-
-    fichiers = {
-        "Voitures": "data/raw/cars_scraper.csv",
-        "Motos & Scooters": "data/raw/bike_scraper.csv",
-        "Location de voitures": "data/raw/location_scraper.csv"
-    }
-
-    choix = st.selectbox("Choisir un jeu de données", list(fichiers.keys()))
-
-    df_raw = pd.read_csv(fichiers[choix])
-
-    # 👀 Aperçu limité
-    st.subheader("Aperçu des données")
-    st.dataframe(df_raw.head(10), use_container_width=True)
+        st.success("Scraping terminé avec succès ✅")
+        st.dataframe(df.head(10), use_container_width=True)
 
     # 📥 Téléchargement
     st.download_button(
@@ -166,6 +175,7 @@ elif menu == "Évaluation":
     Merci de prendre quelques secondes pour évaluer cette application 👇  
     👉 [Accéder au formulaire Google Forms](https://forms.gle/XXXX)
     """)
+
 
 
 
